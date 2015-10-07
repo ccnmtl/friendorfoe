@@ -1,3 +1,14 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "friendorfoe.stage.ccnmtl.columbia.edu"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Friend or Foe"
+MetaDataFormat = "yaml"
+
+[params]
+baseurl = "friendorfoe.stage.ccnmtl.columbia.edu"
+case_repo_baseurl = "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/"
+
+
+[taxonomies]
+    case_topic = "case_topics"
+    category = "category"
+

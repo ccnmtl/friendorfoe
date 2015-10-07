@@ -1,0 +1,30 @@
+<script type="text/javascript" src="com/jquery/jquery-1.2.6.js"></script>
+<script type="text/javascript" src="js/img_assist.js"></script>
+<script type="text/javascript" src="js/audioimage.js"></script>
+<script type="text/javascript" src="com/jquery/jquery.metadata.js"></script> 
+<script type="text/javascript" src="com/jquery/jquery.media.js"></script> 
+<script type="text/javascript" src="swf/swfobject.js"></script> 
+
+ <script type="text/javascript">
+        var GB_ROOT_DIR = "com/greybox/";
+</script>
+<script type="text/javascript" src="com/greybox/AJS.js"></script>
+<script type="text/javascript" src="com/greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="com/greybox/gb_scripts.js"></script>
+<script type="text/javascript">
+      var GB_ANIMATION = true;
+      $(document).ready(function(){
+        $("a.greybox").click(function(){
+          var t = this.title || this.innerHTML || this.href;
+          GB_show(t,this.href,600,800);
+          return false;
+        });
+      });
+</script>
+
+
+<script type="text/javascript">
+    $(function() {
+        $('a.media').media();
+    });
+</script>
