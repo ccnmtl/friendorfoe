@@ -1,5 +1,6 @@
-runserver: 
-	hugo server --watch --verboseLog=true --buildDrafts -v --baseUrl=""
+runserver:
+	hugo --buildDrafts --verboseLog=true -v
+	hugo server --watch --buildDrafts --verboseLog=true -v --baseUrl="" --theme=hyde
 
 deploy:
 	rm -rf public/
