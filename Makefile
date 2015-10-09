@@ -2,7 +2,7 @@ runserver:
 	hugo --buildDrafts --verboseLog=true -v
 	hugo server --watch --buildDrafts --verboseLog=true -v --baseUrl="" --theme=hyde
 
-deploy-stage:
+deploy:
 	rm -rf public/*
 	/usr/local/bin/hugo -s . -b 'https://friendorfoe.stage.ccnmtl.columbia.edu/' \
 	&& s3cmd --acl-public --delete-removed --no-progress sync --no-mime-magic --guess-mime-type public/* s3://friendorfoe.stage.ccnmtl.columbia.edu/
