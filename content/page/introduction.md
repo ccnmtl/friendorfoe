@@ -1,34 +1,28 @@
 ---
 date: 2015-06-12T13:08:53-04:00
 
-title: introduction
+title: Introduction
 ---
-	<!-- Main content of page -->
-	
-	<div id="contentbody" class="three-column" >
-				
-		<div id="main">
-		<div class="breadcrumb"><a href="case_id_70.html">Home</a> 
-		
-		
-		
-		
-		</div>		
-		<h1 class="title">Introduction</h1>
-		
-		
-		
-		<div class="tabs"></div>
+On Sunday, November 28, 2010, Alan Rusbridger—editor of the left-leaning
+British *Guardian* newspaper—and a team of journalists pledged to months
+of secrecy were finally scheduled to go public with one of the most
+explosive collections of documents in the paper’s history: 250,000
+classified US diplomatic cables recording confidential conversations and
+contacts around the world. In this project, the *Guardian* had four
+media partners: the *New York Times* (US), *Der* *Spiegel (*Germany*)*,
+*Le Monde* (France), and *El País* (Spain).
 
-		
-	  <div class="node">
-    <span class="taxonomy"></span>
-    <div class="content"><div style="float:right;padding:10px">
-	<img src="../../files/photos/490/guardian_wall_logo.jpg" /></div>
-<p>
-	On Sunday, November 28, 2010, Alan Rusbridger&mdash;editor of the left-leaning British <em>Guardian</em> newspaper&mdash;and a team of journalists pledged to months of secrecy were finally scheduled to go public with one of the most explosive collections of documents in the paper&rsquo;s history: 250,000 classified US diplomatic cables recording confidential conversations and contacts around the world. In this project, the <em>Guardian</em> had four media partners: the <em>New York Times </em>(US),&nbsp;<em>Der</em> <em>Spiegel (</em>Germany<em>)</em>, <em>Le Monde </em>(France), and <em>El Pa&iacute;s </em>(Spain).</p>
-<p>
-	The five publications had come into possession of the cables thanks to a 21<sup>st</sup>-century organization called WikiLeaks. WikiLeaks was founded in 2007 by Julian Assange, a brilliant and mercurial Australian former computer hacker. Assange believed that information, even classified or dangerous information, should be available to everyone. It was in that spirit that he had already given the <em>Guardian, New York Times</em>, and&nbsp;<em>Spiegel</em>&nbsp;official US frontline records from the wars in Afghanistan and Iraq. In an agreement forged originally by Assange and the <em>Guardian</em>, the three had simultaneously published the so-called War Logs in July and October 2010.</p>
+The five publications had come into possession of the cables thanks to a
+21^st^-century organization called WikiLeaks. WikiLeaks was founded in
+2007 by Julian Assange, a brilliant and mercurial Australian former
+computer hacker. Assange believed that information, even classified or
+dangerous information, should be available to everyone. It was in that
+spirit that he had already given the *Guardian, New York Times*,
+and *Spiegel* official US frontline records from the wars in Afghanistan
+and Iraq. In an agreement forged originally by Assange and the
+*Guardian*, the three had simultaneously published the so-called War
+Logs in July and October 2010.
+
 <p>
 	While there had been moments of tension, the War Logs publication had gone fairly smoothly. The same could not be said of the diplomatic cables. Logistics had been a nightmare. First, there was redaction&mdash;editing the cables so no one would suffer death or retaliation. That had taken weeks of intensive labor by a small group of journalists; organizing and tracking the process required a purpose-built database. Then there was the challenge of arranging for simultaneous publication across time zones and languages by five news partners with widely varying deadlines. A massive grid tried to reconcile the multiple conflicts.</p>
 <p>
@@ -64,8 +58,8 @@ title: introduction
 <a href="case_id_70_id_626_pid_0.html" class="page-next" title="Go to next page"><i>Guardian</i>: a brief history&#160;&#187;</a>
 
 </div>
-</div></div>
-
-      </div>
-				</div><!-- id="main" -->
-	</div><!-- id="contentbody" -->
+</div>
+</div>
+</div>
+</div><!-- id="main" -->
+</div><!-- id="contentbody" -->

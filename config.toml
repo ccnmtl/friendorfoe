@@ -9,6 +9,6 @@ case_repo_baseurl = "http://ccnmtl.columbia.edu/projects/caseconsortium/casestud
 
 
 [taxonomies]
-    case_topic = "case_topics"
-    category = "category"
+    article = "article"
+    biography = "biography"
 

@@ -6,27 +6,4 @@
   <link rel="shortcut icon" href="images/favicon.ico" type="img/x-icon" />
   {{ partial "header_css.html" . }}
   {{ partial "header_js.html" . }}
-
-  <!-- Header -->
-  {{ $baseurl := .Site.BaseURL }}
-  <header id="header" class="container">
-    <!-- Logo -->
-    <div id="logo">
-	  <a href="{{ $baseurl }}"><img src="{{ $baseurl }}img/ccc_logo.png"></a>
-    </div>
-
-    <!-- Nav -->
-    <nav id="nav">
-      <ul>
-        <li><a href="{{ $baseurl }}">Welcome</a></li>
-        <li>
-          <ul>
-            <li><a href="{{ $baseurl }}about">About</a></li>
-            <li><a href="{{ $baseurl }}credits">Credits</a></li>
-          </ul>
-        </li>
-        <li><a href="{{ $baseurl }}help">Help</a></li>
-      </ul>
-    </nav>
-  </header>
 </head>
