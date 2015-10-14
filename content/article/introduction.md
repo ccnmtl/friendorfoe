@@ -7,12 +7,37 @@ name: ""
 title: Introduction
 ---
 
-<p>
-	On Sunday, November 28, 2010, Alan Rusbridger&mdash;editor of the left-leaning British <em>Guardian</em> newspaper&mdash;and a team of journalists pledged to months of secrecy were finally scheduled to go public with one of the most explosive collections of documents in the paper&rsquo;s history: 250,000 classified US diplomatic cables recording confidential conversations and contacts around the world. In this project, the <em>Guardian</em> had four media partners: the <em>New York Times </em>(US),&nbsp;<em>Der</em> <em>Spiegel (</em>Germany<em>)</em>, <em>Le Monde </em>(France), and <em>El Pa&iacute;s </em>(Spain).</p>
-<p>
-	The five publications had come into possession of the cables thanks to a 21<sup>st</sup>-century organization called WikiLeaks. WikiLeaks was founded in 2007 by Julian Assange, a brilliant and mercurial Australian former computer hacker. Assange believed that information, even classified or dangerous information, should be available to everyone. It was in that spirit that he had already given the <em>Guardian, New York Times</em>, and&nbsp;<em>Spiegel</em>&nbsp;official US frontline records from the wars in Afghanistan and Iraq. In an agreement forged originally by Assange and the <em>Guardian</em>, the three had simultaneously published the so-called War Logs in July and October 2010.</p>
-<p>
-	While there had been moments of tension, the War Logs publication had gone fairly smoothly. The same could not be said of the diplomatic cables. Logistics had been a nightmare. First, there was redaction&mdash;editing the cables so no one would suffer death or retaliation. That had taken weeks of intensive labor by a small group of journalists; organizing and tracking the process required a purpose-built database. Then there was the challenge of arranging for simultaneous publication across time zones and languages by five news partners with widely varying deadlines. A massive grid tried to reconcile the multiple conflicts.</p>
+On Sunday, November 28, 2010, Alan Rusbridger—editor of the left-leaning
+British *Guardian* newspaper—and a team of journalists pledged to months
+of secrecy were finally scheduled to go public with one of the most
+explosive collections of documents in the paper’s history: 250,000
+classified US diplomatic cables recording confidential conversations and
+contacts around the world. In this project, the *Guardian* had four
+media partners: the *New York Times* (US), *Der* *Spiegel (*Germany*)*,
+*Le Monde* (France), and *El País* (Spain).
+
+The five publications had come into possession of the cables thanks to a
+21^st^-century organization called WikiLeaks. WikiLeaks was founded in
+2007 by Julian Assange, a brilliant and mercurial Australian former
+computer hacker. Assange believed that information, even classified or
+dangerous information, should be available to everyone. It was in that
+spirit that he had already given the *Guardian, New York Times*,
+and *Spiegel* official US frontline records from the wars in Afghanistan
+and Iraq. In an agreement forged originally by Assange and the
+*Guardian*, the three had simultaneously published the so-called War
+Logs in July and October 2010.
+
+While there had been moments of tension, the War Logs publication had
+gone fairly smoothly. The same could not be said of the diplomatic
+cables. Logistics had been a nightmare. First, there was
+redaction—editing the cables so no one would suffer death or
+retaliation. That had taken weeks of intensive labor by a small group of
+journalists; organizing and tracking the process required a
+purpose-built database. Then there was the challenge of arranging for
+simultaneous publication across time zones and languages by five news
+partners with widely varying deadlines. A massive grid tried to
+reconcile the multiple conflicts.
+
 <p>
 	What&rsquo;s more, relations with Assange&mdash;never simple&mdash;had become fraught. The two principal <em>Guardian</em> reporters on the War Logs stories no longer spoke to him. Assange had also conceived an abiding hatred for the <em>New York Times</em>, and the <em>Guardian</em> and <em>Spiegel</em> had fought fiercely to keep the <em>Times</em> in the consortium. To appease Assange somewhat, they acceded to his 11<sup>th</sup>-hour demand to include <em>Le Monde</em> and <em>El Pa&iacute;s</em> in the release of the diplomatic cables.</p>
 <p>
@@ -27,20 +52,20 @@ title: Introduction
 </blockquote>
 <p>
 	Rusbridger was not a man easily flustered. But for all the care the <em>Guardian</em> had exercised, he could see that this project had the potential to go seriously wrong.</p>
+
 <div>
-	<br clear="all" />
-	<hr align="left" size="1" width="33%" />
-	<div id="ftn1">
-		<p>
-			<span style="font-size: 11px;"><a href="case_id_70_id_625.html#_ftnref1" name="_ftn1" title="">[1]</a> Rusbridger chose not to identify the colleague, but confirmed it was a male.</span></p>
-	</div>
-</div>
+  <br clear="all" />
+  <hr align="left" size="1" width="33%" />
+  <div id="ftn1">
+	<p><span style="font-size: 11px;"><a href="case_id_70_id_625.html#_ftnref1" name="_ftn1" title="">[1]</a> Rusbridger chose not to identify the colleague, but confirmed it was a male.</span></p>
+  </div>
 </div>
 
 
-<div class="book-navigation" style="clear:both"><div class="page-links clear-block">
 
-
-<a href="case_id_70_id_624_pid_0.html" class="page-previous" title="Go to previous page">&#171;&#160;Friend or foe? WikiLeaks and the <i>Guardian</i></a>
-
-<a href="case_id_70_id_626_pid_0.html" class="page-next" title="Go to next page"><i>Guardian</i>: a brief history&#160;&#187;</a>
+<div class="book-navigation" style="clear:both">
+  <div class="page-links clear-block">
+    <a href="case_id_70_id_624_pid_0.html" class="page-previous" title="Go to previous page">&#171;&#160;Friend or foe? WikiLeaks and the <i>Guardian</i></a>
+    <a href="case_id_70_id_626_pid_0.html" class="page-next" title="Go to next page"><i>Guardian</i>: a brief history&#160;&#187;</a>
+  </div>
+</div>

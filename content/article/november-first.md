@@ -4,23 +4,9 @@ date: 2015-10-13T16:06:27-04:00
 description: ""
 image: ""
 name: ""
-title: november first
+title: "November 1 firestorm"
 ---
-
-	
-		
-		
-		</div>		
-		<h1 class="title">November 1 firestorm</h1>
-		
-		
-		
-		<div class="tabs"></div>
-
-		
-	  <div class="node">
-    <span class="taxonomy"></span>
-    <div class="content"><p>
+<p>
 	The <em>Guardian</em> offered to host and scheduled a meeting with Assange for 6 p.m. on Monday, November 1. The <em>New York Times</em> decided not to attend.<a href="case_id_70_id_632_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a> Among other points, the editors wanted to let Assange know about the November 8 publication date and that in their view the existence of Heather Brooke&rsquo;s copy released the <em>Guardian</em> from any earlier agreement. Both <em>Der Spiegel</em> and Editor Rusbridger favored continued cooperation with WikiLeaks if possible.</p>
 <p>
 	Assange was running late, and at 7 p.m. he showed up with a libel lawyer and two other associates in tow. Assange was seething: somehow he had been tipped that the <em>New York Times</em> had the cables. How did it get them, he demanded? There was more. Burns&rsquo; profile, he fumed, was &ldquo;designed to be a smear&hellip; The <em>Times</em> should not go out of its way to produce a negative, sleazy hit-piece and place it on the front page.&rdquo;<a href="case_id_70_id_632_pid_0.html#_ftn2" name="_ftnref2" title="">[2]</a> He protested that the <em>Times</em> &ldquo;has defiled the relationship&rdquo; with WikiLeaks. <em>Guardian</em> Deputy Editor Katz notes that &ldquo;it was not unreasonable that he was cross with us.&rdquo; He continues:</p>

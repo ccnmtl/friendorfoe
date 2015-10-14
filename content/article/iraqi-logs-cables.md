@@ -4,22 +4,9 @@ date: 2015-10-13T16:05:56-04:00
 description: ""
 image: ""
 name: ""
-title: iraqi logs cables
+title: "Iraq logs—and the cables"
 ---
-
-
-		
-		</div>		
-		<h1 class="title">Iraq logs&mdash;and the cables</h1>
-		
-		
-		
-		<div class="tabs"></div>
-
-		
-	  <div class="node">
-    <span class="taxonomy"></span>
-    <div class="content"><p>
+<p>
 	Despite these fallings-out, WikiLeaks and the media partners were moving ahead on releasing the second big trove of documents: battlefield records from Iraq. Assange gave the collection to Leigh on July 7 and they moved directly into the production system set up for the Afghan logs. By the original schedule, the Iraq logs would run two weeks after the Afghan logs&mdash;on August 8. But on Friday, July 30, Assange contacted Leigh about a delay of at least six weeks. Assange wanted to bring television into the mix; specifically, he wanted both Al Jazeera and a fledgling UK production company, the Bureau of Investigative Journalism (BIJ), to produce documentaries (the BIJ piece would air on Channel 4).</p>
 <p>
 	Leigh decided to bargain. The <em>Guardian</em> could consider a delay until late September or early October, he said, if Assange gave him the entire third tranche: a collection of US diplomatic cables. The <em>Guardian</em>, he argued, needed to see if there was any value to the documents. The target date to publish the cables, if they merited it, would be mid-October. Assange agreed, on condition that Editor Rusbridger write a letter agreeing to three items: don&rsquo;t allow the cables to be accessed online at all (no email, shared drive, cloud computing, etc.), don&rsquo;t publish them without Assange&rsquo;s okay, and don&rsquo;t give the cables to anyone else. That meant for the time being neither <em>Der Spiegel</em> nor the <em>New York Times</em> would get a copy. Rusbridger did so, and on Tuesday, August 3, Leigh headed north on his annual three-week vacation to the Scottish highlands&mdash;with a memory stick that held 250,000 US diplomatic cables, the equivalent of 2,000 books.<a href="case_id_70_id_630_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a></p>

@@ -4,10 +4,10 @@ date: 2015-10-13T16:05:30-04:00
 description: ""
 image: ""
 name: ""
-title: first contact
+title: First Contact
 ---
 
-    <div class="content"><p>
+<p>
 	Davies occupied a special place at the <em>Guardian</em>. A staff reporter for many years, he had been since 1987 a freelancer contracted to report only for the <em>Guardian</em>. His job was to find the blockbuster stories no one else had noticed and pursue them&mdash;as he puts it, &ldquo;seeing what must be there that isn&rsquo;t included in what&rsquo;s being written.&rdquo;<a href="case_id_70_id_628.html#_ftn1" name="_ftnref1" title="">[1]</a> The strategy had paid off handsomely; Davies in 2009 alone broke two consequential stories: that the Rupert Murdoch-owned tabloid, <em>News of the World</em>, had hacked into celebrity voicemail accounts, and that Murdoch&rsquo;s umbrella company News Corporation had paid huge sums to settle legal cases related to the phone hacking.</p>
 <p>
 	When Davies saw the item on Manning&rsquo;s arrest and the hunt for Assange, he thought &ldquo;maybe the real story isn&rsquo;t that four paragraphs, it&rsquo;s the secrets. It was extraordinary that nobody else was trying to get hold of Julian [Assange] to ask him what these secrets were and whether they could have them.&rdquo; Davies thought it possible that Assange could be persuaded to share his files&mdash;whatever they contained&mdash;with the <em>Guardian</em>. On June 16, 2010, he tried to reach Assange via email. Assange replied, but cryptically. Then Davies was tipped that Assange was planning to appear in Brussels on Monday, June 21, at a press conference.</p>

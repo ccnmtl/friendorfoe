@@ -4,7 +4,7 @@ date: 2015-10-13T16:05:18-04:00
 description: ""
 image: "../../files/photos/494/assange_espen&#32;moe_2010.jpg"
 name: ""
-title: wikileaks brief history
+title: "WikiLeaks: a brief history"
 ---
 
     <div class="content"><div style="float:right;padding:10px">

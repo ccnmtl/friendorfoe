@@ -1,7 +1,17 @@
 <html>
   {{ $baseurl := .Site.BaseURL }}
   {{ partial "header.html" . }}
-
+  
+  <!-- Debug Statements -->
+  <!-- <p>Is this seen as a node or page? {{ printf "%T" . }} </p>
+  <p>Top level template context(prints values under .Site): {{ printf "%#v" $.Site }}</p>
+  <p>Value of .Permalink (on Nodes and Pages): {{ printf "%#v" .Permalink }}</p>
+  <p>List of all variables scoped to the current context: {{ printf "%#v" . }}</p>
+  <p>When writing homepage see what pages you are looping through look like:</p>
+  {{ range .Data.Pages }}
+    <p> {{/* The context, ".", is now a Page */}} </p>
+    <p> {{ printf "%#v" . }} </p>
+  {{ end }}</p> -->
   <body>
     <div id="container">
       <!-- Banner header -->
@@ -10,7 +20,7 @@
 
       <div id="pagebody">
         <!-- Left sidebar -->
-          {{ partial "link_menu.html" . }}
+          {{ partial "article_menu.html" . }}
         <!-- id="sidebar-left" -->
 
         <!-- Main content of page -->

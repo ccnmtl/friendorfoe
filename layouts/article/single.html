@@ -2,14 +2,25 @@
   {{ $baseurl := .Site.BaseURL }}
   {{ partial "header.html" . }}
   <body>
+  <!-- Debug Statements -->
+  <!-- <p>Is this seen as a node or page? {{ printf "%T" . }} </p>
+  
+  <p>Value of .Permalink (on Nodes and Pages): {{ printf "%#v" .Permalink }}</p>
+  <p>List of all variables scoped to the current context: {{ printf "%#v" . }}</p>
+  
+  <p>Top level template context(prints values under .Site): {{ printf "%#v" $.Site }}</p>
+  <p>When writing homepage see what pages you are looping through look like:</p>
+  {{ range .Data.Pages }}
+    <p> {{/* The context, ".", is now a Page */}} </p>
+    <p> {{ printf "%#v" . }} </p>
+  {{ end }}</p> -->
     <div id="container">
       <!-- Banner header -->
       {{ partial "body_banner.html" . }}
-      <!-- id="header" -->
-
+      
       <div id="pagebody">
         <!-- Left sidebar -->
-          {{ partial "link_menu.html" . }}
+          {{ partial "article_menu.html" . }}
         <!-- id="sidebar-left" -->
         <!-- Main content of page
         <!-- Main content of page -->
@@ -20,12 +31,18 @@
             <div class="tabs"></div>
             <div class="node">
             <span class="taxonomy"></span>
-            <div class="content"><div style="float:right;padding:10px">
-	            <img src="../../files/photos/490/guardian_wall_logo.jpg" />
-            </div>
-          {{ .Content }}
-        <!-- </div>id="contentbody" -->
+              <div class="content">
+                <div style="float:right;padding:10px">
+	              <img src="{{ .Site.BaseURL }}files/photos/490/guardian_wall_logo.jpg" />
+                </div>
+                  {{ .Content }}
+              </div><!--  id="content" -->
+            </div><!--  id="node" -->
+          </div><!--  id="main" -->
+        </div><!--  id="contentbody" -->
+        
         <div class="visualclear"></div>
+        {{ partial "biography_menu.html" . }}
       </div><!-- id="pagebody" -->
       {{ partial "footer.html" . }}
     </div>

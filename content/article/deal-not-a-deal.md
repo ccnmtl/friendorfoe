@@ -4,19 +4,9 @@ date: 2015-10-13T16:06:15-04:00
 description: ""
 image: ""
 name: ""
-title: deal not a deal
+title: "When is a Deal Not a Deal?"
 ---
-
-		<h1 class="title">When is a Deal Not a Deal?</h1>
-		
-		
-		
-		<div class="tabs"></div>
-
-		
-	  <div class="node">
-    <span class="taxonomy"></span>
-    <div class="content"><p>
+<p>
 	By late September, <em>Guardian </em>reporters had been going through the cables for four weeks. Systems Editor Frayman had further refined the search capabilities, allowing journalists to search by individual embassies or by degree of classification. The reporters found that some 6 percent of the cables were secret, 40 percent confidential, and the rest unclassified.<a href="case_id_70_id_631_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a> The collection included no top-secret documents. Chief topics emerged: the spread of nuclear material; military exports to Iran and Syria; perceptions of foreign leaders. Almost none dealt with Israel. There were also the titillating accounts: Saudi sex parties, drunken Central Asian weddings, Prince Andrew&rsquo;s questionable trade dealings. But there was still no publication date for the cables. What&rsquo;s more, under Rusbridger&rsquo;s agreement with Assange, the <em>Guardian</em> had not shared them with the <em>New York Times</em> or <em>Spiegel</em>.</p>
 <p>
 	<strong><em>Brooke file.</em> </strong>In late September, Leigh had lunch with a friend, freelancer Heather Brooke.<a href="case_id_70_id_631_pid_0.html#_ftn2" name="_ftnref2" title="">[2]</a> Brooke was a dual US/UK citizen who worked in Britain and was behind the 2009 disclosure of misappropriation of government funds by members of Parliament for personal expenses. To Leigh, Brooke dropped a bombshell. A disaffected member of WikiLeaks in Iceland, she told Leigh, had given her the entire file of diplomatic cables. Leigh was appalled&mdash;but also saw a silver lining. If the <em>Guardian</em> had access to the cables through a source other than Assange, that released the paper from its promise to publish only when he allowed it, not to mention from the promise to keep the cables confidential.</p>

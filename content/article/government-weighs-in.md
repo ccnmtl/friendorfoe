@@ -4,23 +4,9 @@ date: 2015-10-13T16:06:59-04:00
 description: ""
 image: ""
 name: ""
-title: government weighs in
+title: "Government weighs in"
 ---
-
-		
-		
-		
-		</div>		
-		<h1 class="title">Government weighs in</h1>
-		
-		
-		
-		<div class="tabs"></div>
-
-		
-	  <div class="node">
-    <span class="taxonomy"></span>
-    <div class="content"><div style="float: right; padding: 10px;">
+<div style="float: right; padding: 10px;">
 	<img src="../../files/photos/491/guardian_building.jpg" /><br />
 	<p class="caption">
 		<i>Guardian</i> building</p>

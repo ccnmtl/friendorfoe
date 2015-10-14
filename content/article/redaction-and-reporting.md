@@ -4,22 +4,10 @@ date: 2015-10-13T16:06:41-04:00
 description: ""
 image: ""
 name: ""
-title: redaction and reporting
+title: "Redactions and reporting"
 ---
 
-	
-		
-		</div>		
-		<h1 class="title">Redactions and reporting</h1>
-		
-		
-		
-		<div class="tabs"></div>
-
-		
-	  <div class="node">
-    <span class="taxonomy"></span>
-    <div class="content"><p>
+<p>
 	The <em>Guardian</em> told <em>Le Monde</em> and <em>El Pa&iacute;s </em>about the new arrangement shortly after the November 1 meeting. The new papers had barely three weeks to sift through the massive trove of cables before the agreed-on digital publication date of November 28. The pre-existing partners listed the stories they had already uncovered. For example, <em>Spiegel</em> had been the first to notice cables about the State Department ordering US diplomats to spy on UN officials. The <em>New York Times</em> had closely examined materials on Saudi Arabia encouraging the US to bomb Iranian nuclear installations. The <em>Guardian</em> targeted cables about the relationship between China and North Korea. Meanwhile, both new consortium members, especially the Spanish publication, helped uncover some new stories, including one about US diplomats seeking to influence judges.<a href="case_id_70_id_633_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a></p>
 <p>
 	On November 11, all the parties gathered to fine-tune the publication grid. Assange came with a lawyer, while <em>New York Times</em> Deputy Foreign Editor Ian Fisher flew in from the US. <em>Guardian</em> Deputy Editor Katz took on the coordination job. He prepared a grid tracking which papers would publish which stories on which days. &ldquo;We didn&rsquo;t want to scoop each other,&rdquo; says Leigh. It was complex. For example, for all to publish simultaneously on a Sunday, the weekly <em>Spiegel</em> would have to suspend its standard electronic distribution Saturday&mdash;a costly adjustment. &ldquo;There was a heart sink about how on earth we would synchronize across four languages [and] three different production schedules,&rdquo; says Katz, referring to <em>Le Monde</em>, an afternoon paper, and <em>El</em> <em>Pa&iacute;s</em>, which published at midnight.</p>

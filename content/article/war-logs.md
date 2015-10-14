@@ -4,7 +4,7 @@ date: 2015-10-13T16:05:39-04:00
 description: ""
 image: "../../files/photos/496/guardian_newsroom.jpg"
 name: ""
-title: war logs
+title: "The War Logs"
 ---
 
     <div class="content"><p>
