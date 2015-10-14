@@ -120,3 +120,20 @@ td.revision-current {
   float: none;
   display: block;
 }
+
+#main .title
+{
+	color: #1f9937;
+	font: normal 1.8em "trebuchet ms", verdana, helvetica, arial, sans-serif;
+}
+
+#main a,
+#sidebar-left a,
+#sidebar-right a
+{
+	color: #1f9937;
+}
+
+#media {
+font-style:italic;
+}
