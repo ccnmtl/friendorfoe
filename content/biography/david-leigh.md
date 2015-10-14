@@ -2,7 +2,7 @@
 audio: "../../files/audios/182/Leigh&#32;bio&#32;quote.mp3" 
 date: 2015-10-13T15:41:27-04:00
 audio_description: "<i>Listen to Leigh talk about vacationing with the cables.</i>"
-image: "../../files/photos/486/David&#32;Leigh.jpg" 
+image: "David Leigh.jpg" 
 name: "David Leigh"
 title: David Leigh
 ---

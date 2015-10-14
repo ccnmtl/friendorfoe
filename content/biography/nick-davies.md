@@ -1,8 +1,8 @@
 ---
-audio: "../../files/audios/187/Davies&#32;bio&#32;quote.mp3"
+audio: "/Davies&#32;bio&#32;quote.mp3"
 date: 2015-10-13T15:41:14-04:00
-description: ""
-image: "../../files/photos/489/Nick&#32;Davies.jpg"
+audio_description: "Listen to Davies discuss finding the real story."
+image: "Nick Davies.jpg"
 name: "Nick Davies"
 title: Nick Davies 
 ---

@@ -9,7 +9,7 @@
 
       <div id="pagebody">
         <!-- Left sidebar -->
-          {{ partial "link_menu.html" . }}
+          {{ partial "article_menu.html" . }}
         <!-- id="sidebar-left" -->
         <!-- Main content of page
         <!-- Main content of page -->
@@ -21,11 +21,12 @@
             <div class="node">
             <span class="taxonomy"></span>
             <div class="content"><div style="float:right;padding:10px">
-	            <img src="../../files/photos/490/guardian_wall_logo.jpg" />
+	            <img src="{{ $baseurl }}img/{{.Params.image}}" /></div>
             </div>
           {{ .Content }}
         <!-- </div>id="contentbody" -->
         <div class="visualclear"></div>
+        {{ partial "biography_menu.html" . }}
       </div><!-- id="pagebody" -->
       {{ partial "footer.html" . }}
     </div>

@@ -2,7 +2,7 @@
 audio: "../../files/audios/185/Rusbridger&#32;bio&#32;quote.mp3"
 date: 2015-10-13T15:41:58-04:00
 audio_description: "<i>Listen to Rusbridger discuss not wanting things to fall apart.</i>"
-image: "../../files/photos/485/Alan&#32;Rusbridger.jpg"
+image: "Alan Rusbridger.jpg"
 name: "Alan Rusbridger"
 title: Alan Rusbridger
 ---
