@@ -6,8 +6,8 @@
     <h2 class="title">Sections</h2>
     <div class="content">
       <ul class="menu">
-        {{ range .Data.Pages }}
-        {{ .Render "li"}}
+        {{ range where .Data.Pages.Reverse "Section" "article"}}
+          {{ .Render "li"}}
         {{ end }}
       </ul>
     </div>

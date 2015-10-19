@@ -4,7 +4,7 @@
     <h2 class="title">Biographies</h2>
     <div class="content">
       <ul class="menu">
-      {{ range .Data.Pages }}
+        {{ range where .Data.Pages.Reverse "Section" "biography"}}
         {{ .Render "li"}}
         {{ end }}
       </ul>
