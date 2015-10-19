@@ -7,11 +7,11 @@ name: ""
 title: "Redactions and reporting"
 ---
 
-<p>
-	The <em>Guardian</em> told <em>Le Monde</em> and <em>El Pa&iacute;s </em>about the new arrangement shortly after the November 1 meeting. The new papers had barely three weeks to sift through the massive trove of cables before the agreed-on digital publication date of November 28. The pre-existing partners listed the stories they had already uncovered. For example, <em>Spiegel</em> had been the first to notice cables about the State Department ordering US diplomats to spy on UN officials. The <em>New York Times</em> had closely examined materials on Saudi Arabia encouraging the US to bomb Iranian nuclear installations. The <em>Guardian</em> targeted cables about the relationship between China and North Korea. Meanwhile, both new consortium members, especially the Spanish publication, helped uncover some new stories, including one about US diplomats seeking to influence judges.<a href="case_id_70_id_633_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a></p>
-<p>
-	On November 11, all the parties gathered to fine-tune the publication grid. Assange came with a lawyer, while <em>New York Times</em> Deputy Foreign Editor Ian Fisher flew in from the US. <em>Guardian</em> Deputy Editor Katz took on the coordination job. He prepared a grid tracking which papers would publish which stories on which days. &ldquo;We didn&rsquo;t want to scoop each other,&rdquo; says Leigh. It was complex. For example, for all to publish simultaneously on a Sunday, the weekly <em>Spiegel</em> would have to suspend its standard electronic distribution Saturday&mdash;a costly adjustment. &ldquo;There was a heart sink about how on earth we would synchronize across four languages [and] three different production schedules,&rdquo; says Katz, referring to <em>Le Monde</em>, an afternoon paper, and <em>El</em> <em>Pa&iacute;s</em>, which published at midnight.</p>
-<p>
+
+	The <em>Guardian</em> told <em>Le Monde</em> and <em>El Pa&iacute;s </em>about the new arrangement shortly after the November 1 meeting. The new papers had barely three weeks to sift through the massive trove of cables before the agreed-on digital publication date of November 28. The pre-existing partners listed the stories they had already uncovered. For example, <em>Spiegel</em> had been the first to notice cables about the State Department ordering US diplomats to spy on UN officials. The <em>New York Times</em> had closely examined materials on Saudi Arabia encouraging the US to bomb Iranian nuclear installations. The <em>Guardian</em> targeted cables about the relationship between China and North Korea. Meanwhile, both new consortium members, especially the Spanish publication, helped uncover some new stories, including one about US diplomats seeking to influence judges.<a href="case_id_70_id_633_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a>
+
+	On November 11, all the parties gathered to fine-tune the publication grid. Assange came with a lawyer, while <em>New York Times</em> Deputy Foreign Editor Ian Fisher flew in from the US. <em>Guardian</em> Deputy Editor Katz took on the coordination job. He prepared a grid tracking which papers would publish which stories on which days. &ldquo;We didn&rsquo;t want to scoop each other,&rdquo; says Leigh. It was complex. For example, for all to publish simultaneously on a Sunday, the weekly <em>Spiegel</em> would have to suspend its standard electronic distribution Saturday&mdash;a costly adjustment. &ldquo;There was a heart sink about how on earth we would synchronize across four languages [and] three different production schedules,&rdquo; says Katz, referring to <em>Le Monde</em>, an afternoon paper, and <em>El</em> <em>Pa&iacute;s</em>, which published at midnight.
+
 	<strong><em>Redactions</em>.</strong> Preparing the diplomatic cables and related stories for publication was tough. Not only did reporters have to extract the best stories from the documents, but the cables themselves had to be redacted to remove any references which might threaten the lives of those named. Each individual reporter had first responsibility for redacting the cables that supported his articles. Key correspondents, such as Luke Harding in Moscow, were summoned back to London to join the team. Other star reporters based in Washington, Brussels, Africa, India, and Latin America joined the team remotely. Walsh, who had returned for the war logs and stayed to work on a book, took on the Pakistan- and Afghanistan-related cables. In the run-up to November 28, says Katz, the <em>Guardian</em> had upwards of 25 reporters and editors involved.</p>
 <div style="float: right; padding: 10px;">
 	<img src="../../files/photos/495/grid.jpg" /><br />
@@ -43,10 +43,21 @@ title: "Redactions and reporting"
 	<p>
 		And you will really undermine that fight by publishing this. The counterargument was, but we&rsquo;re been down this route before [in Iraq 2003 and alleged weapons of mass destruction] of suppressing stuff in order to depend on people who appear to be on our side.</p>
 </blockquote>
-<p>
-	Other sensitive material concerned US views of Russian leaders, suspicions about the close relationship between Russian President Vladimir Putin and Italian Prime Minister Silvio Berlusconi, the business dealings of some Russian oligarchs, and top-level corruption in both Pakistan and Afghanistan. While the UK Official Secrets Act technically covered some of this, the press did have on its side the so-called 1999 Reynolds Defense, a legal precedent which allowed the media to publish unproven allegations if they were acting responsibly and in the public interest, and followed standard journalistic procedures.</p>
-<p>
-	The partners eventually came to agreement on which stories to run. The big ones would be rolled out simultaneously; the timing for others of chiefly regional interest were left up to the individual publication. &ldquo;We had furious arguments along the way, but it was an incredibly complicated thing to do,&rdquo; notes Rusbridger.</p>
+
+Other sensitive material concerned US views of Russian leaders, suspicions about 
+the close relationship between Russian President Vladimir Putin and Italian Prime 
+Minister Silvio Berlusconi, the business dealings of some Russian oligarchs, 
+and top-level corruption in both Pakistan and Afghanistan. While the UK Official 
+Secrets Act technically covered some of this, the press did have on its side the 
+so-called 1999 Reynolds Defense, a legal precedent which allowed the media to 
+publish unproven allegations if they were acting responsibly and in the public 
+interest, and followed standard journalistic procedures.
+
+The partners eventually came to agreement on which stories to run. The big ones would be 
+rolled out simultaneously; the timing for others of chiefly regional interest were left 
+up to the individual publication. &ldquo;We had furious arguments along the way, but it 
+was an incredibly complicated thing to do,&rdquo; notes Rusbridger.
+
 <div>
 	<br clear="all" />
 	<hr align="left" size="1" width="33%" />
