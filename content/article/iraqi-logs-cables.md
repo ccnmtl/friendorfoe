@@ -30,7 +30,8 @@ cables to anyone else. That meant for the time being neither <em>Der Spiegel</em
 nor the <em>New York Times</em> would get a copy. Rusbridger did so, and on Tuesday, 
 August 3, Leigh headed north on his annual three-week vacation to the Scottish 
 highlands&mdash;with a memory stick that held 250,000 US diplomatic cables, the 
-equivalent of 2,000 books.<a href="case_id_70_id_630_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a>
+equivalent of 2,000 
+books.<a href="case_id_70_id_630_pid_0.html#_ftn1" name="_ftnref1" title="">[1]</a>
 
 
 	It was not much of a vacation. While the team at the <em>Guardian</em> in London 
@@ -45,6 +46,7 @@ a Scottish jail by UK officials in 2009.
 
 	The results, says Leigh, were unimaginably exciting. For three weeks, sworn to 
 	secrecy, he went through the cables as systematically as he could alone. He recalls:
+	
 <blockquote>
 	<p>
 		I was lowering a hook into a pond and seeing if any fish came up&hellip; Within a 
@@ -62,13 +64,36 @@ But he also walked into the teeth of a new chapter in the evolving Julian Assang
 
 	<strong><em>Sex charges.</em></strong> On Saturday, August 21, Davies had called 
 Leigh in Scotland with disturbing news. Assange had been charged with rape in Stockholm 
-by two Swedish women. As Leigh digested this, the two speculated on what might lie behind such an outlandish accusation. They reviewed the list of Assange&rsquo;s potential enemies, including the CIA. &ldquo;Way out on the distant fringes,&rdquo; says Davies, &ldquo;[we considered it] possible that it could be true.&rdquo; Yet that seemed to be the case&mdash;the women considered that they had been assaulted. Leigh reported the story from Scotland, dictating it for Monday&rsquo;s paper. He and Davies decided their only option was to &ldquo;fully report the facts&rdquo; even if Assange took offense.
+by two Swedish women. As Leigh digested this, the two speculated on what might lie behind 
+such an outlandish accusation. They reviewed the list of Assange&rsquo;s potential enemies, 
+including the CIA. &ldquo;Way out on the distant fringes,&rdquo; says Davies, 
+&ldquo;[we considered it] possible that it could be true.&rdquo; Yet that seemed to be 
+the case&mdash;the women considered that they had been assaulted. Leigh reported the story 
+from Scotland, dictating it for Monday&rsquo;s paper. He and Davies decided their only option 
+was to &ldquo;fully report the facts&rdquo; even if Assange took offense.
 
-	The rape charge quickly changed to &ldquo;sexual harassment.&rdquo; Nonetheless, Assange had a tricky situation on his hands. On September 27, worried about arrest, he moved permanently from Sweden to London. The <em>Guardian</em>, too, could not help but worry about its close cooperation with an individual now involved in a very different story. &ldquo;We could see that he was engaging in misinformation&rdquo; about what had happened, recalls Davies. &ldquo;That was so worrying for us,&rdquo; adds Leigh.
+	The rape charge quickly changed to &ldquo;sexual harassment.&rdquo; Nonetheless, 
+Assange had a tricky situation on his hands. On September 27, worried about arrest, he 
+moved permanently from Sweden to London. The <em>Guardian</em>, too, could not help but 
+worry about its close cooperation with an individual now involved in a very different 
+story. &ldquo;We could see that he was engaging in misinformation&rdquo; about what had 
+happened, recalls Davies. &ldquo;That was so worrying for us,&rdquo; adds Leigh.
 
-	The sexual harassment charges also affected the release of the Iraq war logs. In late September, Assange pleaded for an extension: WikiLeaks had had no opportunity to redact them which, after the backlash in July, it wanted to do. So they moved back the publication date to Friday, October 22. The original three partners continued to coordinate their efforts. Channel 4 would release the BIJ film, while CNN and Al Jazeera would release related stories on their own.<a href="case_id_70_id_630_pid_0.html#_ftn3" name="_ftnref3" title="">[3]</a>
+	The sexual harassment charges also affected the release of the Iraq war logs. 
+In late September, Assange pleaded for an extension: WikiLeaks had had no opportunity 
+to redact them which, after the backlash in July, it wanted to do. So they moved back 
+the publication date to Friday, October 22. The original three partners continued to coordinate 
+their efforts. Channel 4 would release the BIJ film, while CNN and Al Jazeera would release 
+related stories on their own.<a href="case_id_70_id_630_pid_0.html#_ftn3" name="_ftnref3" title="">[3]</a>
 
-	<strong><em>Publication</em>.</strong> Again the release went smoothly. The public was given access to Iraq war records from 2004 to December 2009. Assange hosted his own launch event at the Park Plaza hotel in London. This time, he had taken care not to include names of informants or others who might suffer retaliation. As with the Afghan logs, the partner news organizations chose each their own focus: the <em>New York Times</em> on torture of prisoners by Iraqi forces, on private contractors, and Iran&rsquo;s involvement; the <em>Guardian</em> on civilian deaths and torture, including detainees under Iraqi supervision; and <em>Der Spiegel</em> on the leak itself and the helplessness of US troops in Iraq. But the peace would not hold for long.
+	<strong><em>Publication</em>.</strong> Again the release went smoothly. The public was given 
+access to Iraq war records from 2004 to December 2009. Assange hosted his own launch event at 
+the Park Plaza hotel in London. This time, he had taken care not to include names of informants or 
+others who might suffer retaliation. As with the Afghan logs, the partner news organizations chose 
+each their own focus: the <em>New York Times</em> on torture of prisoners by Iraqi forces, on 
+private contractors, and Iran&rsquo;s involvement; the <em>Guardian</em> on civilian deaths and 
+torture, including detainees under Iraqi supervision; and <em>Der Spiegel</em> on the leak itself 
+and the helplessness of US troops in Iraq. But the peace would not hold for long.
 
 <div>
 	<br clear="all" />
@@ -85,7 +110,8 @@ by two Swedish women. As Leigh digested this, the two speculated on what might l
 		<p>
 			<span style="font-size: 11px;">
 			<a href="case_id_70_id_630_pid_0.html#_ftnref2" name="_ftn2" title="">[2]</a> 
-			Author&rsquo;s interview with David Leigh in London, UK, on March 8, 2011. All further quotes from Leigh, unless otherwise attributed, are from this interview.
+			Author&rsquo;s interview with David Leigh in London, UK, on March 8, 2011. All 
+			further quotes from Leigh, unless otherwise attributed, are from this interview.
 			</span>
 		</p>
 	</div>
@@ -93,7 +119,8 @@ by two Swedish women. As Leigh digested this, the two speculated on what might l
 		<p>
 			<span style="font-size: 11px;">
 			<a href="case_id_70_id_630_pid_0.html#_ftnref3" name="_ftn3" title="">[3]</a> 
-			Assange also unilaterally gave the Iraq logs to <em>Le Monde</em> a week before publication, but the team was not trying to coordinate with the French newspaper.
+			Assange also unilaterally gave the Iraq logs to <em>Le Monde</em> a week before publication, 
+			but the team was not trying to coordinate with the French newspaper.
 			</span>
 		</p>
 	</div>
