@@ -27,7 +27,6 @@ some of the cables and give his opinion. &ldquo;It was a reality check,&rdquo;
 recalls Rusbridger. He amplifies:
 	
 <blockquote>
-	<p>
 		[The leak] was just a staggering breach of secrecy, trust, confidence. 
 		We knew all the arguments that would be advanced: you endangered people. 
 		You&rsquo;ve made diplomacy impossible&hellip;. Normally within a newspaper, 
@@ -35,7 +34,6 @@ recalls Rusbridger. He amplifies:
 		in a very tight operational little bubble, I wanted to get an extra pair of 
 		eyes to just say either &ldquo;Oh my God, you&rsquo;re crazy, what you are 
 		thinking of?&rdquo; Or, &ldquo;it&rsquo;s fine.&rdquo;
-	</p>
 </blockquote>
 
 
@@ -58,9 +56,13 @@ warned, &ldquo;we may be doing something qualitatively different.&rdquo;
 He continued:
 
 <blockquote>
-	<p>
-		Foreign policy is, for the next two years, the one field of operation a seriously weakened but still liberal US president has left, without succumbing to a Republican veto. But neither is he immune from Republican opinion. &nbsp;We as a paper have argued that the US should not bomb Iran, or allow Israel to do so. If we publish a story saying that the US was encouraged to bomb Iran by a close powerful regional neighbour, to whom would that news be welcome, and who would profit from it?
-    </p>
+		Foreign policy is, for the next two years, the one field of operation 
+		a seriously weakened but still liberal US president has left, without 
+		succumbing to a Republican veto. But neither is he immune from Republican 
+		opinion. &nbsp;We as a paper have argued that the US should not bomb Iran, 
+		or allow Israel to do so. If we publish a story saying that the US was 
+		encouraged to bomb Iran by a close powerful regional neighbour, to whom 
+		would that news be welcome, and who would profit from it?
 </blockquote>
 
 
@@ -70,17 +72,26 @@ revealed candid US diplomats&rsquo; views of Russian President Vladimir Putin,
 might that threaten the arms agreement? The writer said:
 
 <blockquote>
-	<p>
-		If START fails, two other treaties with Russia will fail, a president&#39;s word will not become his bond, Russia could easily start shipping S300 air defence missiles to Iran... None of these are unrealistic scenarios. &nbsp;Are we serving our interests, by publishing material which weakens a president, who we think is trying to do the right thing?&rdquo;
-   </p>
+		If START fails, two other treaties with Russia will fail, 
+		a president&#39;s word will not become his bond, Russia 
+		could easily start shipping S300 air defence missiles to 
+		Iran... None of these are unrealistic scenarios. &nbsp;Are 
+		we serving our interests, by publishing material which weakens 
+		a president, who we think is trying to do the right thing?&rdquo;
 </blockquote>
 
 	Finally, concluded the writer, &ldquo;we are a newspaper not a propaganda unit.&rdquo;
 
 <blockquote>
-	<p>
-		Others will publish the same material if we desist. Our duty is to set these stories in context, and that context is governed as much by our liberal values as well as our journalistic analysis. I am writing in total ignorance of what will be published and I do not want to interfere. I just wonder whether we are not putting ourselves in the position, whether we are serving the opposition, and undermining our own stand, on so many of the issues that we care about.
-    </p>
+		Others will publish the same material if we desist. 
+		Our duty is to set these stories in context, and that 
+		context is governed as much by our liberal values as 
+		well as our journalistic analysis. I am writing in total 
+		ignorance of what will be published and I do not want to 
+		interfere. I just wonder whether we are not putting ourselves 
+		in the position, whether we are serving the opposition, and 
+		undermining our own stand, on so many of the issues that we 
+		care about.
 </blockquote>
 
 	Rusbridger knew that he could not stop the publication process at this late date. 
