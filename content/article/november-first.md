@@ -5,7 +5,7 @@ description: ""
 image: ""
 name: ""
 title: "November 1 firestorm"
-article_weight=8
+article_weight: 8
 ---
 
 	The <em>Guardian</em> offered to host and scheduled a meeting with Assange for 6 p.m. 

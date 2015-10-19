@@ -5,7 +5,7 @@ description: ""
 image: ""
 name: ""
 title: First Contact
-article_weight=4
+article_weight: 4
 ---
 
 

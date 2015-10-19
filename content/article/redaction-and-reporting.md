@@ -5,7 +5,7 @@ description: ""
 image: ""
 name: ""
 title: "Redactions and reporting"
-article_weight=9
+article_weight: 9
 ---
 
 

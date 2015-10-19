@@ -5,6 +5,6 @@ audio_description: "<i>Listen to Casson describe his position with the </i>Guard
 image: "Jon Casson.jpg"
 name: "Jon Casson"
 title: Jon Casson
-biography_weight=5
+biography_weight: 5
 ---
 

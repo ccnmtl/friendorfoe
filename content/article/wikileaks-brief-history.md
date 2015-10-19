@@ -5,7 +5,7 @@ description: ""
 image: "../../files/photos/494/assange_espen&#32;moe_2010.jpg"
 name: ""
 title: "WikiLeaks: a brief history"
-article_weight=3
+article_weight: 3
 ---
 <div class="content">
   <div style="float:right;padding:10px">

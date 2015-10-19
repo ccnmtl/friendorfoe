@@ -5,7 +5,7 @@ description: ""
 image: "../../files/photos/493/Manchester&#32;Gdn&#32;front&#32;pg.jpg"
 name: ""
 title: "Guardian: a brief history"
-article_weight=2
+article_weight: 2
 ---
 
 The paper Rusbridger headed was founded in 1821 as the *Manchester

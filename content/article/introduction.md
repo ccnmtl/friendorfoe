@@ -5,7 +5,7 @@ description: ""
 image: "../../files/photos/490/guardian_wall_logo.jpg"
 name: ""
 title: Introduction
-article_weight=1
+article_weight: 1
 ---
 
 On Sunday, November 28, 2010, Alan Rusbridger—editor of the left-leaning

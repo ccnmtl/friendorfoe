@@ -5,7 +5,7 @@ description: ""
 image: "../../files/photos/496/guardian_newsroom.jpg"
 name: ""
 title: "The War Logs"
-article_weight=5
+article_weight: 5
 ---
 
 <div class="content">
