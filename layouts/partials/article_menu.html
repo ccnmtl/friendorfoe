@@ -1,21 +1,14 @@
 {{ $baseurl := .Site.BaseURL }}
+
+
 <div id="sidebar-left">
   <div class="block block-menu" id="block-menu-63">
     <h2 class="title">Sections</h2>
     <div class="content">
       <ul class="menu">
-        <li class="leaf"><a  class="active"  href="title_page.html">Title Page</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/introduction/">Introduction</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/guardian-brief-history/"><i>Guardian</i>: a brief history</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/wikileaks-brief-history/">WikiLeaks: a brief history</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/first-contact/">First Contact</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/war-logs/">The War Logs</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/iraqi-logs-cables/">Iraq logs&mdash;and the cables</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/deal-not-a-deal/">When is a Deal Not a Deal?</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/november-first/">November 1 firestorm</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/redaction-and-reporting/">Redactions and reporting</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/government-weighs-in/">Government weighs in</a></li>
-        <li class="leaf"><a  href="{{ $baseurl }}article/caution-and-concern/">Caution and concern</a></li>
+        {{ range .Data.Pages }}
+        {{ .Render "li"}}
+        {{ end }}
       </ul>
     </div>
   </div>

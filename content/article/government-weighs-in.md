@@ -5,6 +5,7 @@ description: ""
 image: ""
 name: ""
 title: "Government weighs in"
+article_weight=10
 ---
 <div style="float: right; padding: 10px;">
 	<img src="../../files/photos/491/guardian_building.jpg" /><br />

@@ -5,6 +5,7 @@ description: ""
 image: ""
 name: ""
 title: "When is a Deal Not a Deal?"
+article_weight=7
 ---
 
 	By late September, <em>Guardian </em>reporters had been going 

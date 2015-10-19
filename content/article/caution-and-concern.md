@@ -5,6 +5,7 @@ description: ""
 image: ""
 name: ""
 title: Caution and concern
+article_weight=11
 ---
 
 	It was not the first time Rusbridger had worried about publishing the cables. 

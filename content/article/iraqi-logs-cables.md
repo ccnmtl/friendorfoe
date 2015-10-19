@@ -5,6 +5,7 @@ description: ""
 image: ""
 name: ""
 title: "Iraq logs—and the cables"
+article_weight=6
 ---
 
 	Despite these fallings-out, WikiLeaks and the media partners were moving ahead on 
