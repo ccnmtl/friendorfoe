@@ -1,4 +1,3 @@
-{{ $baseurl := .Site.BaseURL }}
 <div id="sidebar-right">
   <div class="block block-menu" id="block-menu-65">
     <h2 class="title">Biographies</h2>
@@ -7,8 +6,9 @@
         {{ range where .Site.Pages.Reverse "Section" "biography"}}
           {{ .Render "li"}}
         {{ end }}
-
       </ul>
     </div>
   </div>
 </div>
+
+
