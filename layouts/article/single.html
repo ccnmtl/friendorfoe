@@ -22,11 +22,13 @@
         <!-- Left sidebar -->
           {{ partial "article_menu.html" . }}
         <!-- id="sidebar-left" -->
-        <!-- Main content of page
+
         <!-- Main content of page -->
         <div id="contentbody" class="three-column" >		
           <div id="main">
-            <div class="breadcrumb"><a href="/">Home</a></div>		
+            <div class="breadcrumb">
+            <a href="/">Home</a>
+            </div>		
             <h1 class="title">{{ .Title }}</h1>
             <div class="tabs"></div>
             <div class="node">
@@ -36,6 +38,7 @@
 	              <img src="{{ .Site.BaseURL }}files/photos/490/guardian_wall_logo.jpg" />
                 </div>
                   {{ .Content }}
+                  {{ partial "article_bottom_nav.html" . }}
               </div><!--  id="content" -->
             </div><!--  id="node" -->
           </div><!--  id="main" -->
