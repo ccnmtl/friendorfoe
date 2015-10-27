@@ -2,7 +2,8 @@
 audio: ""
 date: 2015-10-13T16:06:41-04:00
 description: ""
-image: ""
+image: "grid.jpg"
+caption: "Production Manager Jon Casson's publication grid"
 name: ""
 title: "Redactions and reporting"
 article_weight: 9
@@ -47,13 +48,6 @@ article_weight: 9
 	took on the Pakistan- and Afghanistan-related cables. In the run-up to November 28, 
 	says Katz, the <em>Guardian</em> had upwards of 25 reporters and editors involved.
 </p>
-
-<div style="float: right; padding: 10px;">
-	<img src="grid.jpg" /><br />
-	<p class="caption">
-		Production Manager Jon Casson&#39;s publication grid
-	</p>
-</div>
 
 <p>
 	The second layer of redaction was Production Manager 

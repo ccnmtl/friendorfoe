@@ -1,7 +1,7 @@
 ---
 audio: "../../files/audios/189/Katz&#32;bio&#32;quotes&#32;.mp3"
 date: 2015-10-13T15:41:41-04:00
-audio_description: "<i>Listen to Katz talk about how he became Assange&rsquo;s main contact.</i>"
+audio_description: "Listen to Katz talk about how he became Assange&rsquo;s main contact."
 image: "Ian Katz.jpg"
 name: "Ian Katz"
 title: Ian Katz

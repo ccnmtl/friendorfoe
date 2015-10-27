@@ -124,4 +124,4 @@ article_weight: 2
 		</p>
 	</div>
 </div>
-</div>
+

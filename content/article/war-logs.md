@@ -2,7 +2,8 @@
 audio: ""
 date: 2015-10-13T16:05:39-04:00
 description: ""
-image: "../../files/photos/496/guardian_newsroom.jpg"
+image: "guardian_newsroom.jpg"
+caption: "Guardian newsroom"
 name: ""
 title: "The War Logs"
 article_weight: 5
@@ -20,12 +21,6 @@ article_weight: 5
 	(which allows voice and video calls over the Internet) using accounts under 
 	fictitious names.
 </p>
-
-<div style="float:right;padding:10px">
-	<img src="../../static/img/guardian_newsroom.jpg" /><br />
-	<p class="caption">
-		<i>Guardian</i> newsroom</p>
-</div>
 
 <p>
 	At the <em>Guardian</em>, Rusbridger set aside a fourth-floor room for the small 

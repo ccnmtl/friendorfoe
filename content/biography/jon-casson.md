@@ -14,7 +14,7 @@ print papers and website of the <em>Guardian</em>, the <em>Observer</em> and gua
 As chief copy editor, Casson was part of the team that helped to launch an enhanced <em>Guardian</em> 
 website, mediaguardian.co.uk (replacing Guardian Unlimited), in September 2000. His was the first staff 
 appointment to the new website.
-<p>
+
 	<i>Listen to Casson describe his position with the </i>Guardian.<br />
 	<img alt="" border="0" class="audiofile" src="../../files/audios/191/Casson&#32;bio&#32;quote.mp3" />
-</p>
+

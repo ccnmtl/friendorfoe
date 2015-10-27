@@ -11,24 +11,28 @@
         <!-- Left sidebar -->
           {{ partial "article_menu.html" . }}
         <!-- id="sidebar-left" -->
-        <!-- Main content of page
+        
         <!-- Main content of page -->
         <div id="contentbody" class="three-column" >		
           <div id="main">
             <div class="breadcrumb">
-            <a href="/">Home</a></div>		
+              <a href="/">Home</a>
+            </div>		
             <h1 class="title">{{ .Title }}</h1>
             <div class="tabs"></div>
             <div class="node">
-            <span class="taxonomy"></span>
-            <div class="content">
-            <div style="float:right;padding:10px">
-	            <img src="{{ $baseurl }}img/{{.Params.image}}" /></div>
-            </div>
+              <span class="taxonomy"></span>
+              <div class="content">
+                <div style="float:right;padding:10px">
+	              <img src="{{ $baseurl }}img/{{.Params.image}}" />
+	            </div>
+              </div><!-- <div class="content"> -->
+            </div><!-- <div class="node"> -->
+          </div><!-- <div id="main"> -->
           {{ .Content }}
         <!-- </div>id="contentbody" -->
         <div class="visualclear"></div>
-        {{ partial "other_biography_menu.html" . }}
+        {{ partial "biography_menu.html" . }}
       </div><!-- id="pagebody" -->
       {{ partial "footer.html" . }}
     </div>
