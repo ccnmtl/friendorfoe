@@ -1,25 +1,13 @@
 {{ $baseurl := .Site.BaseURL }}
-
-
 <div id="sidebar-left">
   <div class="block block-menu" id="block-menu-63">
     <h2 class="title">Sections</h2>
     <div class="content">
       <ul class="menu">
-<<<<<<< HEAD
-        <!-- This works on the homepage but breaks on the others -->
-        {{ range where .Data.Pages.Reverse "Section" "article"}}
-          {{ .Render "li"}}
-        {{ end }}
-        {{ range where .Site.Taxonomies.article}}
-          {{ .Render "li"}}
-        {{ end }}
-      </ul>
-=======
       {{ range where .Site.Pages.Reverse "Section" "article"}}
           {{ .Render "li"}}
       {{ end }}
->>>>>>> 8d6037f6610da804e8a05f9931b573bf8320ce2b
+      </ul>
     </div>
   </div>
   <div class="block block-block" id="block-block-1">
