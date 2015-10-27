@@ -6,7 +6,11 @@
     <h2 class="title">Sections</h2>
     <div class="content">
       <ul class="menu">
+        <!-- This works on the homepage but breaks on the others -->
         {{ range where .Data.Pages.Reverse "Section" "article"}}
+          {{ .Render "li"}}
+        {{ end }}
+        {{ range where .Site.Taxonomies.article}}
           {{ .Render "li"}}
         {{ end }}
       </ul>
