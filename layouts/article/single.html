@@ -38,13 +38,14 @@
 	              <img src="{{ .Site.BaseURL }}files/photos/490/guardian_wall_logo.jpg" />
                 </div>
                   {{ .Content }}
+                  {{ partial "article_bottom_nav.html" . }}
               </div><!--  id="content" -->
             </div><!--  id="node" -->
           </div><!--  id="main" -->
         </div><!--  id="contentbody" -->
         
-        <div class="visualclear"></div>
         {{ partial "biography_menu.html" . }}
+        <div class="visualclear"></div>
       </div><!-- id="pagebody" -->
       {{ partial "footer.html" . }}
     </div>
