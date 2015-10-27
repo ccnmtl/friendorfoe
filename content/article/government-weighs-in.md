@@ -2,16 +2,12 @@
 audio: ""
 date: 2015-10-13T16:06:59-04:00
 description: ""
-image: ""
+image: "guardian_building.jpg"
+caption: "Guardian building"
 name: ""
 title: "Government weighs in"
 article_weight: 10
 ---
-<div style="float: right; padding: 10px;">
-	<img src="../../files/photos/491/guardian_building.jpg" /><br />
-	<p class="caption">
-		<i>Guardian</i> building</p>
-</div>
 
 <p>
 	The <em>Guardian</em> was not inclined to ask for comments in advance of publication. 

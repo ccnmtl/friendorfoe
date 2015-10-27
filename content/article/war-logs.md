@@ -22,7 +22,7 @@ article_weight: 5
 </p>
 
 <div style="float:right;padding:10px">
-	<img src="../../files/photos/496/guardian_newsroom.jpg" /><br />
+	<img src="../../static/img/guardian_newsroom.jpg" /><br />
 	<p class="caption">
 		<i>Guardian</i> newsroom</p>
 </div>

@@ -15,12 +15,14 @@
         <!-- Main content of page -->
         <div id="contentbody" class="three-column" >		
           <div id="main">
-            <div class="breadcrumb"><a href="/">Home</a></div>		
+            <div class="breadcrumb">
+            <a href="/">Home</a></div>		
             <h1 class="title">{{ .Title }}</h1>
             <div class="tabs"></div>
             <div class="node">
             <span class="taxonomy"></span>
-            <div class="content"><div style="float:right;padding:10px">
+            <div class="content">
+            <div style="float:right;padding:10px">
 	            <img src="{{ $baseurl }}img/{{.Params.image}}" /></div>
             </div>
           {{ .Content }}

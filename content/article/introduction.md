@@ -2,14 +2,12 @@
 audio: ""
 date: 2015-10-13T16:04:27-04:00
 description: ""
-image: "../../files/photos/490/guardian_wall_logo.jpg"
+image: "guardian_wall_logo.jpg"
 name: ""
 title: Introduction
 article_weight: 1
 ---
 
-<div style="float:right;padding:10px">
-	<img src="../../files/photos/490/guardian_wall_logo.jpg" /></div>
 <p>
 	On Sunday, November 28, 2010, Alan Rusbridger&mdash;editor of the left-leaning British 
 	<em>Guardian</em> newspaper&mdash;and a team of journalists pledged to months of secrecy 

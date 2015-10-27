@@ -34,9 +34,16 @@
             <div class="node">
             <span class="taxonomy"></span>
               <div class="content">
-                <div style="float:right;padding:10px">
-	              <img src="{{ .Site.BaseURL }}files/photos/490/guardian_wall_logo.jpg" />
-                </div>
+                {{ if isset .Params "image" }}
+                  <div style="float:right;padding:10px">
+                	<img src="{{ $baseurl }}img/{{ .Params.image }}" />
+                	{{ if isset .Params "caption" }}
+                	<p class="caption">
+                		{{ .Params.caption }}
+                	</p>
+                	{{ end }}
+                  </div>
+                {{ end }}
                   {{ .Content }}
                   {{ partial "article_bottom_nav.html" . }}
               </div><!--  id="content" -->

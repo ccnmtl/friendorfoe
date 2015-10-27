@@ -49,7 +49,7 @@ article_weight: 9
 </p>
 
 <div style="float: right; padding: 10px;">
-	<img src="../../files/photos/495/grid.jpg" /><br />
+	<img src="grid.jpg" /><br />
 	<p class="caption">
 		Production Manager Jon Casson&#39;s publication grid
 	</p>

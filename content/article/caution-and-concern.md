@@ -16,7 +16,8 @@ article_weight: 11
 	government concerns. After all, in 2004 the <em>New York Times</em>, at the request of the 
 	Bush Administration, had delayed for a year publishing a story about domestic spying.
 	<a href="#_ftn1" name="_ftnref1" title="">[1]</a> 
-	In that case, the <em>Times</em> had found Administration arguments invoking national security persuasive.
+	In that case, the <em>Times</em> had found Administration arguments 
+	invoking national security persuasive.
 </p>
 
 <p>

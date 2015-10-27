@@ -2,17 +2,12 @@
 audio: ""
 date: 2015-10-13T16:05:18-04:00
 description: ""
-image: "../../files/photos/494/assange_espen&#32;moe_2010.jpg"
+image: "assange_espen_moe_2010.jpg"
+caption: "Julian Assange 2010 Espen Moe"
 name: ""
 title: "WikiLeaks: a brief history"
 article_weight: 3
 ---
-<div style="float:right;padding:10px">
-	<img src="../../files/photos/494/assange_espen&#32;moe_2010.jpg" /><br />
-	<p class="caption">
-		Julian Assange<br />
-		&copy; 2010 Espen Moe</p>
-</div>
 
 <p>
 	Assange was an Australian, born in 1971 in the province of Queensland. 

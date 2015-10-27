@@ -2,14 +2,12 @@
 audio: ""
 date: 2015-10-13T16:05:08-04:00
 description: ""
-image: "../../files/photos/493/Manchester&#32;Gdn&#32;front&#32;pg.jpg"
+image: "Manchester_Gdn_front_pg.jpg"
 name: ""
 title: "Guardian: a brief history"
 article_weight: 2
 ---
 
-<div style="float:right;padding:10px">
-	<img src="../../files/photos/493/Manchester&#32;Gdn&#32;front&#32;pg.jpg" /></div>
 <p>
 	The paper Rusbridger headed was founded in 1821 as the <em>Manchester Guardian</em>, 
 	based in northern England. The daily paper dropped &ldquo;Manchester&rdquo; from 
