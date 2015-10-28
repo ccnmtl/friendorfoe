@@ -4,7 +4,7 @@
     <h2 class="title">Sections</h2>
     <div class="content">
       <ul class="menu">
-      {{ range where .Site.Pages.Reverse "Section" "article"}}
+      {{ range where .Site.Pages.ByWeight.Reverse "Section" "article"}}
           {{ .Render "li"}}
       {{ end }}
       </ul>

@@ -2,9 +2,9 @@
 audio: ""
 date: 2015-10-13T16:04:27-04:00
 description: ""
-image: "guardian_wall_logo.jpg"
+image: "guardianwalllogo.jpg"
 name: ""
-title: Introduction
+title: "Introduction"
 article_weight: 1
 ---
 
