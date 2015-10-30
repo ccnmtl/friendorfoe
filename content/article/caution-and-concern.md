@@ -9,10 +9,10 @@ article_weight: 11
 ---
 <p>
 	It was not the first time Rusbridger had worried about publishing the cables. In early October, 
-	after Leigh had handed over the trove and other <em>Guardian</em> reporters had started to go 
+	after Leigh had handed over the trove and other *Guardian* reporters had started to go 
 	through them, the editor had had serious misgivings: &ldquo;a moment of standing back and thinking, 
 	actually, should we be doing this at all?... [Sometimes] you get into a little sort of bubble where 
-	you get carried along by it.&rdquo; Perhaps the <em>Guardian</em> had been too quick to dismiss 
+	you get carried along by it.&rdquo; Perhaps the *Guardian* had been too quick to dismiss 
 	government concerns. After all, in 2004 the <em>New York Times</em>, at the request of the 
 	Bush Administration, had delayed for a year publishing a story about domestic spying.
 	<a href="#_ftn1" name="_ftnref1" title="">[1]</a> 
@@ -38,11 +38,11 @@ article_weight: 11
 
 <p>
 	At the time, Jenkins read for several hours. While he understood Rusbridger&rsquo;s hesitation, 
-	Jenkins&rsquo; opinion was that the <em>Guardian</em> had no choice but to publish the documents. 
+	Jenkins&rsquo; opinion was that the *Guardian* had no choice but to publish the documents. 
 	But now it was November, and Rusbridger once again found himself questioning the very premise of 
 	publishing classified US government documents. He had rehearsed with Katz and others what he would 
 	say if, for example, a bomb went off on a flight to New York and the head of London&rsquo;s 
-	anti-terror unit blamed the <em>Guardian</em>. &ldquo;We did that exercise on quite a few things, 
+	anti-terror unit blamed the *Guardian.* &ldquo;We did that exercise on quite a few things, 
 	actually,&rdquo; says Katz.
 	<a href="#_ftn2" name="_ftnref2" title="">[2]</a> 
 	But those rehearsals seemed rather inadequate.</p>
@@ -96,10 +96,10 @@ article_weight: 11
 
 <p>
 	Rusbridger knew that he could not stop the publication process at this late date. Whatever his qualms, 
-	the <em>Guardian</em>&rsquo;s media partners would no doubt move forward. But the email jarred him 
-	because it so closely mirrored his own misgivings of October. If <em>Guardian</em> readers and supporters 
+	the *Guardian's* media partners would no doubt move forward. But the email jarred him 
+	because it so closely mirrored his own misgivings of October. If *Guardian* readers and supporters 
 	found the paper&rsquo;s editorial decisions misguided or wrong, how would he respond? What if people died? 
-	Did the <em>Guardian</em> and its partners remain in control of this process, or had Assange manipulated them?
+	Did the *Guardian* and its partners remain in control of this process, or had Assange manipulated them?
 </p>
 
 <div>

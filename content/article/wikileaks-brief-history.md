@@ -36,20 +36,20 @@ article_weight: 3
 </p>
 
 <p>
-	Assange was the one to start a relationship with the <em>Guardian</em>. 
+	Assange was the one to start a relationship with the *Guardian.* 
 	As early as 2007, recalls Editor Rusbridger, he received regular emails 
 	from WikiLeaks &ldquo;editor-in-chief&rdquo; Assange, sometimes with 
 	a good story to tell. On August 31, 2007, the two organizations worked 
 	in tandem for the first time. WikiLeaks posted the full text of, and the 
-	<em>Guardian</em> ran a story on, a report by the private investigations 
+	*Guardian* ran a story on, a report by the private investigations 
 	firm Kroll about the alleged corruption of former Kenyan President Daniel Arap Moi. 
-	The Kenyan government had chosen to keep the report secret. The <em>Guardian</em> 
+	The Kenyan government had chosen to keep the report secret. The *Guardian* 
 	at that point was the only British paper to write about WikiLeaks or use some of 
 	its documents.
 </p>
 
 <p>
-	In 2008 and 2009, WikiLeaks and the <em>Guardian</em> again crossed paths. On 
+	In 2008 and 2009, WikiLeaks and the *Guardian* again crossed paths. On 
 	two occasions, the UK high court issued an injunction against the paper&rsquo;s 
 	publication of damning documents, first about Barclays Bank tax avoidance strategies, 
 	and second on toxic waste dumping in the Ivory Coast by commodity trader 
@@ -79,7 +79,7 @@ article_weight: 3
 	have given the documents to WikiLeaks.
 	<a href="#_ftn3" name="_ftnref3" title="">[3]</a> 
 	One of those who read a small news item on Manning&rsquo;s arrest, and that the 
-	State Department was looking for Assange to question him, was veteran <em>Guardian</em> 
+	State Department was looking for Assange to question him, was veteran *Guardian* 
 	investigative reporter 
 	<a href="biographies/nick-davies/">Nick Davies</a>. Davies resolved to find Assange.
 </p>
