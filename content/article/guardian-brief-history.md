@@ -9,24 +9,24 @@ article_weight: 2
 ---
 
 
-The paper Rusbridger headed was founded in 1821 as the <em>Manchester Guardian</em>, 
+The paper Rusbridger headed was founded in 1821 as the *Manchester Guardian*, 
 based in northern England. The daily paper dropped &ldquo;Manchester&rdquo; from 
 the title in 1959, and in 1964 it moved operations to London.
 <a href="#_ftn1" name="_ftnref1" title="">[1]</a> 
 Its circulation in 2010 fell from over 300,000 to some 
 280,000&mdash;ranking about 10th among British national newspapers.
 <a href="#_ftn2" name="_ftnref2" title="">[2]</a> 
-Its sister paper since 1993, the <em>Observer</em>, was published on Sundays. 
-The <em>Guardian</em> was the only national paper with an ombudsman 
+Its sister paper since 1993, the *Observer*, was published on Sundays. 
+The *Guardian* was the only national paper with an ombudsman 
 (&ldquo;readers&rsquo; editor&rdquo;), first appointed in 1997. 
 In late 2008, the company moved to a modern building in the King&rsquo;s 
 Cross section of London.
 
 
-A left-leaning publication from the start, the <em>Guardian</em> 
+A left-leaning publication from the start, the *Guardian* 
 emerged with time as a member of the &ldquo;serious&rdquo; national 
-British daily press (along with the <em>Financial Times</em>, the 
-<em>Daily Telegraph</em>, the <em>Times</em> of London, and the <em>Independent</em>). 
+British daily press (along with the *Financial Times*, the 
+*Daily Telegraph*, the *Times* of London, and the *Independent*). 
 It was supported since 1936 by the Scott Trust, established by John Russell Scott, whose 
 family had owned and edited the paper for decades. The Trust was pledged to preserve the 
 editorial independence of the paper. All profits went back into the improvement of the 
@@ -35,7 +35,7 @@ fluctuations in the industry.
 
 
 By the early 1990s, it had largely shed an early reputation for cheap production 
-and multiple typos (the satirical magazine <em>Private Eye</em> dubbed it the <em>Grauniad</em>), 
+and multiple typos (the satirical magazine *Private Eye* dubbed it the <em>Grauniad</em>), 
 and went on to win multiple prestigious journalism awards, including the British Press Awards 
 National Newspaper of the Year in 1997 and 2006.
 <a href="#_ftn3" name="_ftnref3" title="">[3]</a> 
