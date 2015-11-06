@@ -8,64 +8,60 @@ title: "Guardian: a brief history"
 article_weight: 2
 ---
 
-<p>
-	The paper Rusbridger headed was founded in 1821 as the <em>Manchester Guardian</em>, 
-	based in northern England. The daily paper dropped &ldquo;Manchester&rdquo; from 
-	the title in 1959, and in 1964 it moved operations to London.
-	<a href="#_ftn1" name="_ftnref1" title="">[1]</a> 
-	Its circulation in 2010 fell from over 300,000 to some 
-	280,000&mdash;ranking about 10th among British national newspapers.
-	<a href="#_ftn2" name="_ftnref2" title="">[2]</a> 
-	Its sister paper since 1993, the <em>Observer</em>, was published on Sundays. 
-	The <em>Guardian</em> was the only national paper with an ombudsman 
-	(&ldquo;readers&rsquo; editor&rdquo;), first appointed in 1997. 
-	In late 2008, the company moved to a modern building in the King&rsquo;s 
-	Cross section of London.
-</p>
 
-<p>
-	A left-leaning publication from the start, the <em>Guardian</em> 
-	emerged with time as a member of the &ldquo;serious&rdquo; national 
-	British daily press (along with the <em>Financial Times</em>, the 
-	<em>Daily Telegraph</em>, the <em>Times</em> of London, and the <em>Independent</em>). 
-	It was supported since 1936 by the Scott Trust, established by John Russell Scott, whose 
-	family had owned and edited the paper for decades. The Trust was pledged to preserve the 
-	editorial independence of the paper. All profits went back into the improvement of the 
-	publication, an unusual arrangement which to a degree insulated the paper from economic 
-	fluctuations in the industry.
-</p>
+The paper Rusbridger headed was founded in 1821 as the <em>Manchester Guardian</em>, 
+based in northern England. The daily paper dropped &ldquo;Manchester&rdquo; from 
+the title in 1959, and in 1964 it moved operations to London.
+<a href="#_ftn1" name="_ftnref1" title="">[1]</a> 
+Its circulation in 2010 fell from over 300,000 to some 
+280,000&mdash;ranking about 10th among British national newspapers.
+<a href="#_ftn2" name="_ftnref2" title="">[2]</a> 
+Its sister paper since 1993, the <em>Observer</em>, was published on Sundays. 
+The <em>Guardian</em> was the only national paper with an ombudsman 
+(&ldquo;readers&rsquo; editor&rdquo;), first appointed in 1997. 
+In late 2008, the company moved to a modern building in the King&rsquo;s 
+Cross section of London.
 
-<p>
-	By the early 1990s, it had largely shed an early reputation for cheap production 
-	and multiple typos (the satirical magazine <em>Private Eye</em> dubbed it the <em>Grauniad</em>), 
-	and went on to win multiple prestigious journalism awards, including the British Press Awards 
-	National Newspaper of the Year in 1997 and 2006.
-	<a href="#_ftn3" name="_ftnref3" title="">[3]</a> 
-	One of its best-known scoops was a series of investigations into Tory MPs 
-	Jonathan Aitken and Neil Hamilton, which led to the 1997 downfall of the Conservative government.
-</p>
 
-<p>
-	The <em>Guardian</em> also had a substantial online presence with, by 2010, the 
-	largest Web readership of any English-language newspaper after the <em>New York Times</em>. 
-	The editors subscribed to a &ldquo;free content&rdquo; philosophy, and declined 
-	to charge online readers. The website, launched in 1999, won the 2005, 2006, and 
-	2007 Webby award (given by the International Academy of Digital Arts and Sciences) 
-	for best newspaper on the Internet. It also swept the hustings as Best Electronic Daily 
-	Newspaper for six years running from the British Newspaper Awards.
-	<a href="#_ftn4" name="_ftnref4" title="">[4]</a>
-</p>
+A left-leaning publication from the start, the <em>Guardian</em> 
+emerged with time as a member of the &ldquo;serious&rdquo; national 
+British daily press (along with the <em>Financial Times</em>, the 
+<em>Daily Telegraph</em>, the <em>Times</em> of London, and the <em>Independent</em>). 
+It was supported since 1936 by the Scott Trust, established by John Russell Scott, whose 
+family had owned and edited the paper for decades. The Trust was pledged to preserve the 
+editorial independence of the paper. All profits went back into the improvement of the 
+publication, an unusual arrangement which to a degree insulated the paper from economic 
+fluctuations in the industry.
 
-<p>
-	The <em>Guardian</em>&rsquo;s editor in 2010 was Alan Rusbridger, 57, who first joined the 
-	paper in 1979. He left the paper for a period in the mid-1980s, but returned in 1987 and 
-	helped to launch a new section, <em>Guardian Weekend</em>. After a stint as deputy editor, 
-	<a href="biographies/allen-rusbridger/">Rusbridger</a> was named editor 
-	in 1995; he helped foster the explosive growth of the paper&rsquo;s website.
-	<a href="#_ftn5" name="_ftnref5" title="">[5]</a>&nbsp;It was that 
-	prominence online which first attracted the attention, and the admiration, of a first-rate 
-	Internet hacker, Julian Assange.
-</p>
+
+By the early 1990s, it had largely shed an early reputation for cheap production 
+and multiple typos (the satirical magazine <em>Private Eye</em> dubbed it the <em>Grauniad</em>), 
+and went on to win multiple prestigious journalism awards, including the British Press Awards 
+National Newspaper of the Year in 1997 and 2006.
+<a href="#_ftn3" name="_ftnref3" title="">[3]</a> 
+One of its best-known scoops was a series of investigations into Tory MPs 
+Jonathan Aitken and Neil Hamilton, which led to the 1997 downfall of the Conservative government.
+
+
+The <em>Guardian</em> also had a substantial online presence with, by 2010, the 
+largest Web readership of any English-language newspaper after the <em>New York Times</em>. 
+The editors subscribed to a &ldquo;free content&rdquo; philosophy, and declined 
+to charge online readers. The website, launched in 1999, won the 2005, 2006, and 
+2007 Webby award (given by the International Academy of Digital Arts and Sciences) 
+for best newspaper on the Internet. It also swept the hustings as Best Electronic Daily 
+Newspaper for six years running from the British Newspaper Awards.
+<a href="#_ftn4" name="_ftnref4" title="">[4]</a>
+
+
+The <em>Guardian</em>&rsquo;s editor in 2010 was Alan Rusbridger, 57, who first joined the 
+paper in 1979. He left the paper for a period in the mid-1980s, but returned in 1987 and 
+helped to launch a new section, <em>Guardian Weekend</em>. After a stint as deputy editor, 
+<a href="biographies/allen-rusbridger/">Rusbridger</a> was named editor 
+in 1995; he helped foster the explosive growth of the paper&rsquo;s website.
+<a href="#_ftn5" name="_ftnref5" title="">[5]</a>&nbsp;It was that 
+prominence online which first attracted the attention, and the admiration, of a first-rate 
+Internet hacker, Julian Assange.
+
 
 <div>
 	<br clear="all" />
