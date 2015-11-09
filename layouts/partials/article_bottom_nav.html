@@ -1,10 +1,14 @@
 <div class="book-navigation" style="clear:both">
   <div class="page-links clear-block">
+  {{ if .PrevInSection }}
     <a href="{{ .PrevInSection.Permalink }}" class="page-previous" title="Go to previous page">
     {{.PrevInSection.Title}}
     </a>
+    {{ end }}
+    {{ if .NextInSection }}
     <a href="{{ .NextInSection.Permalink }}" class="page-next" title="Go to next page">
     {{.NextInSection.Title}}
     </a>
+    {{ end }}
   </div>
 </div>

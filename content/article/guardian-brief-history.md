@@ -64,60 +64,60 @@ Internet hacker, Julian Assange.
 
 
 <div>
-	<br clear="all" />
-	<hr align="left" size="1" width="33%" />
-	<div id="ftn1">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref1" name="_ftn1" title="">[1]</a> 
-			For more on the <em>Guardian</em>&rsquo;s history, see 
-			<a class="extlink" href="http://www.guardian.co.uk/gnm-archive/2002/jun/06/1" target="_blank">
-			&ldquo;History of the Guardian,&rdquo;
-			</a> <em>Guardian</em>.
-			</span>
-		</p>
-	</div>
-	<div id="ftn2">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref2" name="_ftn2" title="">[2]</a> 
-			For circulation numbers, see 
-			<a class="extlink" href="http://www.guardian.co.uk/media/table/2010/nov/12/abcs-national-newspapers" target="_blank">
-			&ldquo;ABCs: National daily newspaper circulation October 2010,&rdquo;
-			</a> 
-			<em>Guardian</em>, November 12, 2010.
-			</span>
-		</p>
-	</div>
-	<div id="ftn3">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref3" name="_ftn3" title="">[3]</a> 
-			For a list of award winners, see 
-			<a class="extlink" href="http://www.pressgazette.co.uk/hybrid.asp?typeCode=99&amp;navcode=92" target="_blank">
-			&ldquo;British Press Awards,&rdquo;
-			</a> <em>Press Gazette</em>.
-			</span>
-		</p>
-	</div>
-	<div id="ftn4">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref4" name="_ftn4" title="">[4]</a> 
-			For winners, please see: 
-			<a href="http://www.newspaperawards.co.uk/index.php?pid=4">
-			http://www.newspaperawards.co.uk/index.php?pid=4</a>
-			<a class="extlink" href="http://www.newspaperawards.co.uk/index.php?pid=4." target="_blank">.</a>
-			</span>
-		</p>
-	</div>
-	<div id="ftn5">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref5" name="_ftn5" title="">[5]</a> 
-			On the side, Rusbridger wrote children&rsquo;s books and served as chair of the National Youth Orchestra.
-			</span>
-		</p>
-	</div>
+  <br clear="all" />
+  <hr align="left" size="1" width="33%" />
+  <div id="ftn1">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref1" name="_ftn1" title="">[1]</a> 
+    For more on the <em>Guardian</em>&rsquo;s history, see 
+    <a class="extlink" href="http://www.guardian.co.uk/gnm-archive/2002/jun/06/1" target="_blank">
+    &ldquo;History of the Guardian,&rdquo;
+    </a> <em>Guardian</em>.
+    </span>
+    </p>
+  </div>
+  <div id="ftn2">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref2" name="_ftn2" title="">[2]</a> 
+    For circulation numbers, see 
+    <a class="extlink" href="http://www.guardian.co.uk/media/table/2010/nov/12/abcs-national-newspapers" target="_blank">
+    &ldquo;ABCs: National daily newspaper circulation October 2010,&rdquo;
+    </a> 
+    <em>Guardian</em>, November 12, 2010.
+    </span>
+    </p>
+  </div>
+  <div id="ftn3">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref3" name="_ftn3" title="">[3]</a> 
+    For a list of award winners, see 
+    <a class="extlink" href="http://www.pressgazette.co.uk/hybrid.asp?typeCode=99&amp;navcode=92" target="_blank">
+    &ldquo;British Press Awards,&rdquo;
+    </a> <em>Press Gazette</em>.
+    </span>
+    </p>
+  </div>
+  <div id="ftn4">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref4" name="_ftn4" title="">[4]</a> 
+    For winners, please see: 
+    <a href="http://www.newspaperawards.co.uk/index.php?pid=4">
+    http://www.newspaperawards.co.uk/index.php?pid=4</a>
+    <a class="extlink" href="http://www.newspaperawards.co.uk/index.php?pid=4." target="_blank">.</a>
+    </span>
+    </p>
+  </div>
+  <div id="ftn5">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref5" name="_ftn5" title="">[5]</a> 
+    On the side, Rusbridger wrote children&rsquo;s books and served as chair of the National Youth Orchestra.
+    </span>
+    </p>
+  </div>
 </div>
 
