@@ -35,12 +35,14 @@
             <span class="taxonomy"></span>
               <div class="content">
                 {{ if isset .Params "image" }}
+                {{ if .Params.image }}
                   <div style="float:right;padding:10px">
                 	<img src="{{ $baseurl }}img/{{ .Params.image }}" />
                 	{{ if isset .Params "caption" }}
                 	<p class="caption">
                 		{{ .Params.caption }}
                 	</p>
+                	{{ end }}
                 	{{ end }}
                   </div>
                 {{ end }}

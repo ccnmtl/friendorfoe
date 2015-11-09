@@ -77,8 +77,7 @@ and offered to share them.
 <a href="#_ftn5" name="_ftnref5" title="">[5]</a> 
 The <em>Times, </em>Leigh stipulated<em>,</em> would have to keep confidential its 
 source for the cables. &ldquo;I think I uploaded the stuff to a secure NYT server,&rdquo; 
-recalls Leigh.
-<a href="#_ftn6" name="_ftnref6" title="">[6]</a> 
+recalls Leigh. <a href="#_ftn6" name="_ftnref6" title="">[6]</a> 
 On September 27, the <em>New York Times</em> quietly assigned a few reporters to go 
 through the documents. At the same time, he created a flash drive for <em>Der Spiegel</em> 
 containing the cables. Editor Marcel Rosenbach flew to London to pick it up.
@@ -126,74 +125,74 @@ and determine whether the partnership with WikiLeaks was still viable.
 
 
 <div>
-	<hr align="left" size="1" width="33%" />
-	<div id="ftn1">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref1" name="_ftn1" title="">[1]</a> 
-			Leigh and Harding, <em>WikiLeaks: Inside Julian Assange&rsquo;s War on Secrecy</em>, p. 181.
-			</span>
-		</p>
-	</div>
-	<div id="ftn2">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref2" name="_ftn2" title="">[2]</a> 
-			Leigh does not remember the precise date.
-			</span>
-		</p>
-	</div>
-	<div id="ftn3">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref3" name="_ftn3" title="">[3]</a> 
-			Brooke was on board by November 3.
-			</span>
-		</p>
-	</div>
-	<div id="ftn4">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref4" name="_ftn4" title="">[4]</a> 
-			In addition to being longtime professional colleagues, Rusbridger and Leigh 
-			were brothers-in-law; they had married sisters.
-			</span>
-		</p>
-	</div>
-	<div id="ftn5">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref5" name="_ftn5" title="">[5]</a> 
-			Leigh does not remember the precise date. <em>Der Spiegel</em> reports that 
-			&ldquo;[t]he Guardian and the New York Times had already begun concrete preparations 
-			in early October to publish the embassy cables without WikiLeaks&#39; consent.&rdquo; 
-			Marcel Rosenbach and Holger Stark,
-			<a class="extlink" href="http://readersupportednews.org/opinion2/370-wikileaks/4783-an-inside-look-at-wikileaks-negotiations" target="_blank">
-			 &ldquo;An Inside Look at Wikileaks Negotiations,&rdquo;
-			</a>
-			<em>Der Spiegel</em>, January 29, 2011.
-			</span>
-		</p>
-	</div>
-	<div id="ftn6">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref6" name="_ftn6" title="">[6]</a> 
-			Email from Leigh to author, May 26, 2011.
-			</span>
-		</p>
-	</div>
-	<div id="ftn7">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref7" name="_ftn7" title="">[7]</a> 
-			Michael Calderone, 
-			<a class="extlink" href="http://news.yahoo.com/s/yblog_upshot/20101026/cm_yblog_upshot/ny-times-reporter-defends-profile-of-wikileaks-assange" target="_blank">
-			&ldquo;NY Times reporter defends profile of WikiLeaks&rsquo; Assange,&rdquo; 
-			</a>
-			<em>Yahoo! News</em>, October 26, 2010.
-			</span>
-		</p>
-	</div>
+  <hr align="left" size="1" width="33%" />
+  <div id="ftn1">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref1" name="_ftn1" title="">[1]</a> 
+    Leigh and Harding, <em>WikiLeaks: Inside Julian Assange&rsquo;s War on Secrecy</em>, p. 181.
+    </span>
+    </p>
+  </div>
+  <div id="ftn2">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref2" name="_ftn2" title="">[2]</a> 
+    Leigh does not remember the precise date.
+    </span>
+    </p>
+  </div>
+  <div id="ftn3">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref3" name="_ftn3" title="">[3]</a> 
+    Brooke was on board by November 3.
+    </span>
+    </p>
+  </div>
+  <div id="ftn4">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref4" name="_ftn4" title="">[4]</a> 
+    In addition to being longtime professional colleagues, Rusbridger and Leigh 
+    were brothers-in-law; they had married sisters.
+    </span>
+    </p>
+  </div>
+  <div id="ftn5">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref5" name="_ftn5" title="">[5]</a> 
+    Leigh does not remember the precise date. <em>Der Spiegel</em> reports that 
+    &ldquo;[t]he Guardian and the New York Times had already begun concrete preparations 
+    in early October to publish the embassy cables without WikiLeaks&#39; consent.&rdquo; 
+    Marcel Rosenbach and Holger Stark,
+    <a class="extlink" href="http://readersupportednews.org/opinion2/370-wikileaks/4783-an-inside-look-at-wikileaks-negotiations" target="_blank">
+    &ldquo;An Inside Look at Wikileaks Negotiations,&rdquo;
+    </a>
+    <em>Der Spiegel</em>, January 29, 2011.
+    </span>
+    </p>
+  </div>
+  <div id="ftn6">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref6" name="_ftn6" title="">[6]</a> 
+    Email from Leigh to author, May 26, 2011.
+    </span>
+    </p>
+  </div>
+  <div id="ftn7">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref7" name="_ftn7" title="">[7]</a> 
+    Michael Calderone, 
+    <a class="extlink" href="http://news.yahoo.com/s/yblog_upshot/20101026/cm_yblog_upshot/ny-times-reporter-defends-profile-of-wikileaks-assange" target="_blank">
+    &ldquo;NY Times reporter defends profile of WikiLeaks&rsquo; Assange,&rdquo; 
+    </a>
+    <em>Yahoo! News</em>, October 26, 2010.
+    </span>
+    </p>
+  </div>
 </div>
-</div>
+
