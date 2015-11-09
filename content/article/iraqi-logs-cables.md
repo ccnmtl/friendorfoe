@@ -4,7 +4,7 @@ date: 2015-10-13T16:05:56-04:00
 description: ""
 image: ""
 name: ""
-title: "Iraq logs — and the cables"
+title: "Iraq logs&mdash;and the cables"
 article_weight: 6
 ---
 
