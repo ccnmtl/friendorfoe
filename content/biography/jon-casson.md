@@ -1,5 +1,5 @@
 ---
-audio: "CassonBioQuote.mp3"
+audio: "projects/caseconsortium/casestudies/70/casestudy/files/audio/CassonBioQuote.mp3"
 date: 2015-10-13T15:42:08-04:00
 description: ""
 audio_description: "Listen to Casson describe his position with the Guardian."

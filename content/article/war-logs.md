@@ -1,5 +1,5 @@
 ---
-audio: "DaviesTextQuote.mp3"
+audio: "projects/caseconsortium/casestudies/70/casestudy/DaviesTextQuote.mp3"
 date: 2015-10-13T16:05:39-04:00
 description: ""
 image: "guardian_newsroom.jpg"
