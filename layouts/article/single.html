@@ -27,7 +27,7 @@
         <div id="contentbody" class="three-column" >		
           <div id="main">
             <div class="breadcrumb">
-            <a href="/">Home</a>
+              <a href="/">Home</a>
             </div>		
             <h1 class="title">{{ .Title }}</h1>
             <div class="tabs"></div>
@@ -35,7 +35,7 @@
             <span class="taxonomy"></span>
               <div class="content">
                 {{ if isset .Params "image" }}
-                {{ if .Params.image }}
+                  {{ if .Params.image }}
                   <div style="float:right;padding:10px">
                 	<img src="{{ $baseurl }}img/{{ .Params.image }}" />
                 	{{ if isset .Params "caption" }}
@@ -43,11 +43,18 @@
                 		{{ .Params.caption }}
                 	</p>
                 	{{ end }}
-                	{{ end }}
+                  {{ end }}
                   </div>
                 {{ end }}
-                  {{ .Content }}
-                  {{ partial "article_bottom_nav.html" . }}
+                {{ .Content }}
+                {{ if isset .Params "audio" }}
+                  {{ if .Params.audio }}
+                  <audio controls>
+                    <source src="{{ $baseurl }}{{ .Params.audio }}" type="audio/mpeg">
+                  </audio>
+                  {{ end }}
+                {{ end }}
+                {{ partial "article_bottom_nav.html" . }}
               </div><!--  id="content" -->
             </div><!--  id="node" -->
           </div><!--  id="main" -->

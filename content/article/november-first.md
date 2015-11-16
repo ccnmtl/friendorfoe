@@ -1,5 +1,6 @@
 ---
-audio: ""
+audio: "Katz_text_quote.mp3"
+audio_two: "Rusbridger_text_quote.mp3"
 date: 2015-10-13T16:06:27-04:00
 description: ""
 image: ""

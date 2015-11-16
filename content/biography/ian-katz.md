@@ -1,5 +1,5 @@
 ---
-audio: "KatzBioQquotes.mp3"
+audio: "files/audio/KatzBioQuotes.mp3"
 date: 2015-10-13T15:41:41-04:00
 description: ""
 audio_description: "Listen to Katz talk about how he became Assange's main contact."

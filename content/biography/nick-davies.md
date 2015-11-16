@@ -1,5 +1,5 @@
 ---
-audio: "DaviesBioQquote.mp3"
+audio: "files/audio/DaviesBioQuote.mp3"
 date: 2015-10-13T15:41:14-04:00
 description: ""
 audio_description: "Listen to Davies discuss finding the real story."
