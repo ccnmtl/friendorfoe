@@ -30,6 +30,13 @@
             </div><!-- <div class="node"> -->
           </div><!-- <div id="main"> -->
           {{ .Content }}
+            {{ if isset .Params "audio" }}
+              {{ if .Params.audio }}
+                <audio controls>
+                  <source src="{{ $baseurl }}audio/{{ .Params.audio }}" type="audio/mpeg">
+                </audio>
+              {{ end }}
+            {{ end }}
         <!-- </div>id="contentbody" -->
         <div class="visualclear"></div>
         {{ partial "biography_menu.html" . }}
