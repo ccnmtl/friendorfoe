@@ -34,8 +34,8 @@
             <div class="node">
             <span class="taxonomy"></span>
               <div class="content">
-              {{ .Params.image }}
-                {{ with .Params "image" }}
+                {{ if isset .Params "image" }}
+                  {{ if .Params.image }}
                   <div style="float:right;padding:10px">
                 	<img src="{{ $baseurl }}img/{{ .Params.image }}" />
                 	{{ if isset .Params "caption" }}
