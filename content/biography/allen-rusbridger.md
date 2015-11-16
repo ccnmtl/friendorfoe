@@ -1,5 +1,5 @@
 ---
-audio: "projects/caseconsortium/casestudies/70/casestudy/files/audio/RusbridgerBioQuote.mp3"
+audio: "RusbridgerBioQuote.mp3"
 date: 2015-10-13T15:41:58-04:00
 description: ""
 audio_description: "Listen to Rusbridger discuss not wanting things to fall apart."
