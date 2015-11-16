@@ -43,11 +43,18 @@
                 		{{ .Params.caption }}
                 	</p>
                 	{{ end }}
-                	{{ end }}
+                  {{ end }}
                   </div>
                 {{ end }}
-                  {{ .Content }}
-                  {{ partial "article_bottom_nav.html" . }}
+                {{ .Content }}
+                {{ if isset .Params "audio" }}
+                  {{ if .Params.audio }}
+                  <audio controls>
+                    <source src="{{ $baseurl }}audio/{{ .Params.audio }}" type="audio/mpeg">
+                  </audio>
+                  {{ end }}
+                {{ end }}
+                {{ partial "article_bottom_nav.html" . }}
               </div><!--  id="content" -->
             </div><!--  id="node" -->
           </div><!--  id="main" -->
