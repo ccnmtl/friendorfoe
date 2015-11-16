@@ -50,7 +50,7 @@
                 {{ if isset .Params "audio" }}
                   {{ if .Params.audio }}
                   <audio controls>
-                    <source src="{{ $baseurl }}audio/{{ .Params.audio }}" type="audio/mpeg">
+                    <source src="{{ $baseurl }}{{ .Params.audio }}" type="audio/mpeg">
                   </audio>
                   {{ end }}
                 {{ end }}

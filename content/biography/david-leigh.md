@@ -1,5 +1,5 @@
 ---
-audio: "LeighBioQquote.mp3" 
+audio: "files/audio/LeighBioQuote.mp3" 
 date: 2015-10-13T15:41:27-04:00
 description: ""
 audio_description: "Listen to Leigh talk about vacationing with the cables."
