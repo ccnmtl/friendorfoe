@@ -135,7 +135,7 @@ He adds:
 <i>Listen to Davies describe the </i>Guardian<i>&rsquo;s initial relationship with Assange.</i><br />
 <img alt="" border="0" class="audiofile" src="../../files/audios/186/Davies&#32;text&#32;quote.mp3" />
 <audio controls>
-  <source src="../../files/audio/{{ .Params.audio }}" type="audio/mpeg">
+  <source src="../../files/audio/DaviesTextQuote.mp3" type="audio/mpeg">
 </audio>
 
 

@@ -1,6 +1,6 @@
 ---
-audio: "Katz_text_quote.mp3"
-audio_two: "Rusbridger_text_quote.mp3"
+audio: "KatzTextQuote.mp3"
+audio_two: "RusbridgerTextQuote.mp3"
 date: 2015-10-13T16:06:27-04:00
 description: ""
 image: ""
@@ -41,7 +41,9 @@ unreasonable that he was cross with us.&rdquo; He continues:
 
 <i>Listen to Katz distinguish between the </i>Guardian<i>&rsquo;s expectations and Assange&rsquo;s.</i><br />
 <img alt="" border="0" class="audiofile" src="../../files/audios/188/Katz&#32;text&#32;quote.mp3" />
-
+<audio controls>
+  <source src="../../files/audio/KatzTextQuote.mp3" type="audio/mpeg">
+</audio>
 
 It was the first time Rusbridger had spent any time with Assange. 
 The editor assured Assange that he personally had given the <em>Times</em> 
@@ -82,7 +84,9 @@ that, in fact, the existing partnership was going to be the best deal possible. 
 
 <i>Listen to Rusbridger describe his discussion with Assange.</i><br />
 <img alt="" border="0" class="audiofile" src="../../files/audios/184/Rusbridger&#32;text&#32;quote.mp3" />
-
+<audio controls>
+  <source src="../../files/audio/RusbridgerTextQuote.mp3" type="audio/mpeg">
+</audio>
 
 Two days later, Assange agreed to 10 points Rusbridger presented, including a 
 publication schedule that ran starting November 29 (in print; digital release November 28) 

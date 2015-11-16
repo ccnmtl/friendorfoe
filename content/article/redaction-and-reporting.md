@@ -85,6 +85,10 @@ We did the best we could.&rdquo;
 
 <i>Listen to Casson describe coordinating publication with several newspapers.</i><br />
 <img alt="" border="0" class="audiofile" src="../../files/audios/190/Casson&#32;text&#32;quote.mp3" />
+<audio controls>
+  <source src="../../files/audio/CassonTextQuote.mp3" type="audio/mpeg">
+</audio>
+
 
 Casson designed a massive online spreadsheet that tracked each cable by number, the 
 ID number for its related stories, whether the cable had been redacted, whether the 
