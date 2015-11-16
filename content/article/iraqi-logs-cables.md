@@ -29,8 +29,7 @@ publish them without Assange&rsquo;s okay, and don&rsquo;t give the cables to an
 meant for the time being neither <em>Der Spiegel</em> nor the <em>New York Times</em> would get a 
 copy. Rusbridger did so, and on Tuesday, August 3, Leigh headed north on his annual three-week 
 vacation to the Scottish highlands&mdash;with a memory stick that held 250,000 US diplomatic cables, 
-the equivalent of 2,000 books.
-<a href="#_ftn1" name="_ftnref1" title="">[1]</a>
+the equivalent of 2,000 books. <a href="#_ftn1" name="_ftnref1" title="">[1]</a>
 
 
 It was not much of a vacation. While the team at the <em>Guardian</em> in London struggled 
@@ -84,8 +83,7 @@ late September, Assange pleaded for an extension: WikiLeaks had had no opportuni
 to redact them which, after the backlash in July, it wanted to do. So they moved back 
 the publication date to Friday, October 22. The original three partners continued to 
 coordinate their efforts. Channel 4 would release the BIJ film, while CNN and Al Jazeera 
-would release related stories on their own.
-<a href="#_ftn3" name="_ftnref3" title="">[3]</a>
+would release related stories on their own. <a href="#_ftn3" name="_ftnref3" title="">[3]</a>
 
 
 <strong><em>Publication</em>.</strong> Again the release went smoothly. The public was 
@@ -99,34 +97,34 @@ on the leak itself and the helplessness of US troops in Iraq. But the peace woul
 
 
 <div>
-	<br clear="all" />
-	<hr align="left" size="1" width="33%" />
-	<div id="ftn1">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref1" name="_ftn1" title="">[1]</a> 
-			Leigh and Harding, <em>WikiLeaks: Inside Julian Assange&rsquo;s War on Secrecy</em>, p.140.
-			</span>
-		</p>
-	</div>
-	<div id="ftn2">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref2" name="_ftn2" title="">[2]</a> 
-			Author&rsquo;s interview with David Leigh in London, UK, on March 8, 2011. All 
-			further quotes from Leigh, unless otherwise attributed, are from this interview.
-			</span>
-		</p>
-	</div>
-	<div id="ftn3">
-		<p>
-			<span style="font-size: 11px;">
-			<a href="#_ftnref3" name="_ftn3" title="">[3]</a> 
-			Assange also unilaterally gave the Iraq logs to <em>Le Monde</em> a week before 
-			publication, but the team was not trying to coordinate with the French newspaper.
-			</span>
-		</p>
-	</div>
+  <br clear="all" />
+  <hr align="left" size="1" width="33%" />
+  <div id="ftn1">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref1" name="_ftn1" title="">[1]</a> 
+    Leigh and Harding, <em>WikiLeaks: Inside Julian Assange&rsquo;s War on Secrecy</em>, p.140.
+    </span>
+    </p>
+  </div>
+  <div id="ftn2">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref2" name="_ftn2" title="">[2]</a> 
+    Author&rsquo;s interview with David Leigh in London, UK, on March 8, 2011. All 
+    further quotes from Leigh, unless otherwise attributed, are from this interview.
+    </span>
+    </p>
+  </div>
+  <div id="ftn3">
+    <p>
+    <span style="font-size: 11px;">
+    <a href="#_ftnref3" name="_ftn3" title="">[3]</a> 
+    Assange also unilaterally gave the Iraq logs to <em>Le Monde</em> a week before 
+    publication, but the team was not trying to coordinate with the French newspaper.
+    </span>
+    </p>
+  </div>
 </div>
 
 
