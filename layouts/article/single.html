@@ -27,14 +27,15 @@
         <div id="contentbody" class="three-column" >		
           <div id="main">
             <div class="breadcrumb">
-            <a href="/">Home</a>
+              <a href="/">Home</a>
             </div>		
             <h1 class="title">{{ .Title }}</h1>
             <div class="tabs"></div>
             <div class="node">
             <span class="taxonomy"></span>
               <div class="content">
-                {{ if isset .Params "image" }}
+              {{ .Params.image }}
+                {{ with .Params "image" }}
                   <div style="float:right;padding:10px">
                 	<img src="{{ $baseurl }}img/{{ .Params.image }}" />
                 	{{ if isset .Params "caption" }}
