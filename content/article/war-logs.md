@@ -1,5 +1,5 @@
 ---
-audio: "projects/caseconsortium/casestudies/70/casestudy/DaviesTextQuote.mp3"
+audio: "DaviesTextQuote.mp3"
 date: 2015-10-13T16:05:39-04:00
 description: ""
 image: "guardian_newsroom.jpg"
@@ -134,7 +134,9 @@ He adds:
 
 <i>Listen to Davies describe the </i>Guardian<i>&rsquo;s initial relationship with Assange.</i><br />
 <img alt="" border="0" class="audiofile" src="../../files/audios/186/Davies&#32;text&#32;quote.mp3" />
-
+<audio controls>
+  <source src="../../files/audio/{{ .Params.audio }}" type="audio/mpeg">
+</audio>
 
 
 Davies had another time-consuming assignment looming and decided to pull 
