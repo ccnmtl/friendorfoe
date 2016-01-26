@@ -40,9 +40,9 @@ unreasonable that he was cross with us.&rdquo; He continues:
 
 
 <i>Listen to Katz distinguish between the </i>Guardian<i>&rsquo;s expectations and Assange&rsquo;s.</i><br />
-<img alt="" border="0" class="audiofile" src="../../files/audios/188/Katz&#32;text&#32;quote.mp3" />
+
 <audio controls>
-  <source src="../../files/audio/KatzTextQuote.mp3" type="audio/mpeg">
+  <source src="../audios/KatzTextQuote.mp3" type="audio/mpeg">
 </audio>
 
 It was the first time Rusbridger had spent any time with Assange. 
@@ -83,9 +83,8 @@ that, in fact, the existing partnership was going to be the best deal possible. 
 
 
 <i>Listen to Rusbridger describe his discussion with Assange.</i><br />
-<img alt="" border="0" class="audiofile" src="../../files/audios/184/Rusbridger&#32;text&#32;quote.mp3" />
 <audio controls>
-  <source src="../../files/audio/RusbridgerTextQuote.mp3" type="audio/mpeg">
+  <source src="../audios/RusbridgerTextQuote.mp3" type="audio/mpeg">
 </audio>
 
 Two days later, Assange agreed to 10 points Rusbridger presented, including a 
