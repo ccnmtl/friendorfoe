@@ -95,8 +95,10 @@ its agreement with him. Eventually, Leigh told Rusbridger what he&rsquo;d done. 
 
 
 <i>Listen to Leigh talk about taking matters into his own hands.</i><br />
-<img alt="" border="0" class="audiofile" src="../../files/audios/183/Leigh&#32;text&#32;quote.mp3" />
 
+<audio controls>
+  <source src="../audios/LeighTextQuote.mp3" type="audio/mpeg">
+</audio>
 
 
 Meanwhile, Leigh also went to see Assange at the Frontline Club, where he was living in London, 
